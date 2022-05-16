@@ -1,0 +1,27 @@
+plugins:
+  geo_blocking_enabled:
+    default: false
+  geo_blocking_asn_blocklist:
+    client: false
+    default: ""
+    type: list
+    list_type: simple
+  geo_blocking_country_region_blocklist:
+    client: false
+    default: ""
+    type: list
+    list_type: simple
+  geo_blocking_detailed_reason:
+    client: false
+    default: true
+  geo_blocking_log_blocked:
+    client: false
+    default: false
+  geo_blocking_log_allowed:
+    client: false
+    default: false
+  geo_blocking_cache_version:
+    hidden: true
+    client: false
+    default: 1
+

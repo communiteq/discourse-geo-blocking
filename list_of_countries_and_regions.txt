@@ -1,0 +1,3639 @@
+  
+AD Andorra 
+AD Andorra "Andorra la Vella"
+AD Andorra Canillo
+AD Andorra Encamp
+AD Andorra Escaldes-Engordany
+AD Andorra "La Massana"
+AD Andorra Ordino
+AD Andorra "Sant Julià de Loria"
+AE "United Arab Emirates" 
+AE "United Arab Emirates" "Abu Dhabi"
+AE "United Arab Emirates" Ajman
+AE "United Arab Emirates" Dubai
+AE "United Arab Emirates" Fujairah
+AE "United Arab Emirates" "Imarat Ra's al Khaymah"
+AE "United Arab Emirates" "Imarat Umm al Qaywayn"
+AE "United Arab Emirates" Sharjah
+AF Afghanistan 
+AF Afghanistan Badakhshan
+AF Afghanistan Baghlan
+AF Afghanistan Ghazni
+AF Afghanistan Herat
+AF Afghanistan Kabul
+AF Afghanistan Kandahar
+AF Afghanistan Khowst
+AF Afghanistan Nangarhar
+AF Afghanistan "Sar-e Pul"
+AG "Antigua and Barbuda" 
+AG "Antigua and Barbuda" Barbuda
+AG "Antigua and Barbuda" "Parish of Saint George"
+AG "Antigua and Barbuda" "Parish of Saint John"
+AG "Antigua and Barbuda" "Parish of Saint Mary"
+AG "Antigua and Barbuda" "Parish of Saint Paul"
+AG "Antigua and Barbuda" "Parish of Saint Peter"
+AG "Antigua and Barbuda" "Parish of Saint Philip"
+AG "Antigua and Barbuda" Redonda
+AI Anguilla 
+AL Albania 
+AL Albania "Qarku i Beratit"
+AL Albania "Qarku i Dibres"
+AL Albania "Qarku i Durresit"
+AL Albania "Qarku i Elbasanit"
+AL Albania "Qarku i Fierit"
+AL Albania "Qarku i Gjirokastres"
+AL Albania "Qarku i Korces"
+AL Albania "Qarku i Kukesit"
+AL Albania "Qarku i Lezhes"
+AL Albania "Qarku i Shkodres"
+AL Albania "Qarku i Vlores"
+AL Albania Tirana
+AM Armenia 
+AM Armenia Aragatsotn
+AM Armenia Ararat
+AM Armenia Armavir
+AM Armenia Gegharkunik
+AM Armenia Kotayk
+AM Armenia Lori
+AM Armenia Shirak
+AM Armenia Syunik
+AM Armenia Tavush
+AM Armenia "Vayots Dzor"
+AM Armenia Yerevan
+AO Angola 
+AO Angola "Bengo Province"
+AO Angola Benguela
+AO Angola Bíe
+AO Angola Cabinda
+AO Angola "Cuando Cobango"
+AO Angola "Cuanza Norte Province"
+AO Angola "Cunene Province"
+AO Angola Huambo
+AO Angola Huíla
+AO Angola "Kwanza Sul"
+AO Angola "Luanda Norte"
+AO Angola "Luanda Province"
+AO Angola "Lunda Sul"
+AO Angola "Malanje Province"
+AO Angola Moxico
+AO Angola "Namibe Province"
+AO Angola Uíge
+AO Angola Zaire
+AQ Antarctica 
+AR Argentina 
+AR Argentina "Buenos Aires"
+AR Argentina "Buenos Aires F.D."
+AR Argentina Catamarca
+AR Argentina Chaco
+AR Argentina Chubut
+AR Argentina Cordoba
+AR Argentina Corrientes
+AR Argentina "Entre Rios"
+AR Argentina Formosa
+AR Argentina Jujuy
+AR Argentina "La Pampa"
+AR Argentina "La Rioja"
+AR Argentina Mendoza
+AR Argentina Misiones
+AR Argentina Neuquen
+AR Argentina "Rio Negro"
+AR Argentina Salta
+AR Argentina "San Juan"
+AR Argentina "San Luis"
+AR Argentina "Santa Cruz"
+AR Argentina "Santa Fe"
+AR Argentina "Santiago del Estero"
+AR Argentina "Tierra del Fuego"
+AR Argentina Tucuman
+AS "American Samoa" 
+AS "American Samoa" "Eastern District"
+AS "American Samoa" "Manu'a District"
+AS "American Samoa" "Rose Island"
+AS "American Samoa" "Swains Island"
+AS "American Samoa" "Western District"
+AT Austria 
+AT Austria Burgenland
+AT Austria Carinthia
+AT Austria "Lower Austria"
+AT Austria Salzburg
+AT Austria Styria
+AT Austria Tyrol
+AT Austria "Upper Austria"
+AT Austria Vienna
+AT Austria Vorarlberg
+AU Australia 
+AU Australia "Australian Capital Territory"
+AU Australia "New South Wales"
+AU Australia "Northern Territory"
+AU Australia Queensland
+AU Australia "South Australia"
+AU Australia Tasmania
+AU Australia Victoria
+AU Australia "Western Australia"
+AW Aruba 
+AX "Åland" 
+AZ Azerbaijan 
+AZ Azerbaijan "Absheron Rayon"
+AZ Azerbaijan Astara
+AZ Azerbaijan "Baku City"
+AZ Azerbaijan "Ganja City"
+AZ Azerbaijan "Imishli Rayon"
+AZ Azerbaijan Jalilabad
+AZ Azerbaijan Nakhichevan
+AZ Azerbaijan "Quba Rayon"
+AZ Azerbaijan "Qusar Rayon"
+AZ Azerbaijan "Salyan Rayon"
+AZ Azerbaijan "Shaki City"
+AZ Azerbaijan "Shamakhi Rayon"
+AZ Azerbaijan "Siazan Rayon"
+AZ Azerbaijan "Sumqayit City"
+AZ Azerbaijan "Ujar Rayon"
+BA "Bosnia and Herzegovina" 
+BA "Bosnia and Herzegovina" "Brčko"
+BA "Bosnia and Herzegovina" "Federation of B&H"
+BA "Bosnia and Herzegovina" "Republika Srpska"
+BB Barbados 
+BB Barbados "Christ Church"
+BB Barbados "Saint Andrew"
+BB Barbados "Saint George"
+BB Barbados "Saint James"
+BB Barbados "Saint John"
+BB Barbados "Saint Joseph"
+BB Barbados "Saint Lucy"
+BB Barbados "Saint Michael"
+BB Barbados "Saint Peter"
+BB Barbados "Saint Philip"
+BB Barbados "Saint Thomas"
+BD Bangladesh 
+BD Bangladesh "Barisal Division"
+BD Bangladesh Chittagong
+BD Bangladesh "Dhaka Division"
+BD Bangladesh "Khulna Division"
+BD Bangladesh "Mymensingh Division"
+BD Bangladesh "Rajshahi Division"
+BD Bangladesh "Rangpur Division"
+BD Bangladesh "Sylhet Division"
+BE Belgium 
+BE Belgium "Brussels Capital"
+BE Belgium Flanders
+BE Belgium Wallonia
+BF "Burkina Faso" 
+BF "Burkina Faso" "Boucle du Mouhoun"
+BF "Burkina Faso" "Cascades Region"
+BF "Burkina Faso" Centre
+BF "Burkina Faso" Centre-Est
+BF "Burkina Faso" Centre-Nord
+BF "Burkina Faso" Centre-Sud
+BF "Burkina Faso" Est
+BF "Burkina Faso" Hauts-Bassins
+BF "Burkina Faso" Nord
+BF "Burkina Faso" Plateau-Central
+BF "Burkina Faso" Sahel
+BF "Burkina Faso" Sud-Ouest
+BG Bulgaria 
+BG Bulgaria Blagoevgrad
+BG Bulgaria Burgas
+BG Bulgaria Dobrich
+BG Bulgaria Gabrovo
+BG Bulgaria Haskovo
+BG Bulgaria Kardzhali
+BG Bulgaria Kyustendil
+BG Bulgaria Lovech
+BG Bulgaria Montana
+BG Bulgaria Pazardzhik
+BG Bulgaria Pernik
+BG Bulgaria Pleven
+BG Bulgaria Plovdiv
+BG Bulgaria Razgrad
+BG Bulgaria Ruse
+BG Bulgaria Shumen
+BG Bulgaria Silistra
+BG Bulgaria Sliven
+BG Bulgaria Smolyan
+BG Bulgaria Sofia
+BG Bulgaria Sofia-Capital
+BG Bulgaria "Stara Zagora"
+BG Bulgaria Targovishte
+BG Bulgaria Varna
+BG Bulgaria "Veliko Tarnovo"
+BG Bulgaria Vidin
+BG Bulgaria Vratsa
+BG Bulgaria Yambol
+BH Bahrain 
+BH Bahrain Manama
+BH Bahrain Muharraq
+BH Bahrain Northern
+BH Bahrain "Southern Governorate"
+BI Burundi 
+BI Burundi "Bubanza Province"
+BI Burundi "Bujumbura Mairie Province"
+BI Burundi "Bujumbura Rural Province"
+BI Burundi "Bururi Province"
+BI Burundi "Cankuzo Province"
+BI Burundi "Cibitoke Province"
+BI Burundi "Gitega Province"
+BI Burundi "Kayanza Province"
+BI Burundi "Kirundo Province"
+BI Burundi "Makamba Province"
+BI Burundi "Muramvya Province"
+BI Burundi "Muyinga Province"
+BI Burundi Mwaro
+BI Burundi "Ngozi Province"
+BI Burundi Rumonge
+BI Burundi "Rutana Province"
+BI Burundi "Ruyigi Province"
+BJ Benin 
+BJ Benin Alibori
+BJ Benin "Atakora Department"
+BJ Benin "Atlantique Department"
+BJ Benin "Borgou Department"
+BJ Benin "Collines Department"
+BJ Benin Donga
+BJ Benin "Kouffo Department"
+BJ Benin Littoral
+BJ Benin Mono
+BJ Benin Ouémé
+BJ Benin "Plateau Department"
+BL "Saint Barthélemy" 
+BM Bermuda 
+BM Bermuda "Devonshire Parish"
+BM Bermuda "Hamilton city"
+BM Bermuda Paget
+BM Bermuda "Pembroke Parish"
+BM Bermuda "Saint George"
+BM Bermuda "Sandys Parish"
+BM Bermuda "Southampton Parish"
+BN Brunei 
+BN Brunei Belait
+BN Brunei "Brunei-Muara District"
+BN Brunei Temburong
+BN Brunei Tutong
+BO Bolivia 
+BO Bolivia "Departamento de Chuquisaca"
+BO Bolivia "Departamento de Cochabamba"
+BO Bolivia "Departamento de La Paz"
+BO Bolivia "Departamento de Pando"
+BO Bolivia "Departamento de Potosi"
+BO Bolivia "Departamento de Santa Cruz"
+BO Bolivia "Departamento de Tarija"
+BO Bolivia "El Beni"
+BO Bolivia Oruro
+BQ "Bonaire  and Saba"
+BR Brazil 
+BR Brazil Acre
+BR Brazil Alagoas
+BR Brazil Amapa
+BR Brazil Amazonas
+BR Brazil Bahia
+BR Brazil Ceara
+BR Brazil "Espirito Santo"
+BR Brazil "Federal District"
+BR Brazil Goias
+BR Brazil Maranhao
+BR Brazil "Mato Grosso"
+BR Brazil "Mato Grosso do Sul"
+BR Brazil "Minas Gerais"
+BR Brazil Para
+BR Brazil Paraíba
+BR Brazil Parana
+BR Brazil Pernambuco
+BR Brazil Piaui
+BR Brazil "Rio de Janeiro"
+BR Brazil "Rio Grande do Norte"
+BR Brazil "Rio Grande do Sul"
+BR Brazil Rondonia
+BR Brazil Roraima
+BR Brazil "Santa Catarina"
+BR Brazil "Sao Paulo"
+BR Brazil Sergipe
+BR Brazil Tocantins
+BS Bahamas 
+BS Bahamas "Berry Islands District"
+BS Bahamas "Black Point District"
+BS Bahamas "Central Abaco District"
+BS Bahamas "Central Andros District"
+BS Bahamas "Central Eleuthera District"
+BS Bahamas "City of Freeport District"
+BS Bahamas "East Grand Bahama District"
+BS Bahamas "Grand Cay District"
+BS Bahamas "Harbour Island"
+BS Bahamas Inagua
+BS Bahamas "Long Island"
+BS Bahamas "Moore's Island District"
+BS Bahamas "New Providence District"
+BS Bahamas "North Abaco District"
+BS Bahamas "North Andros District"
+BS Bahamas "San Salvador District"
+BS Bahamas "South Eleuthera"
+BS Bahamas "Spanish Wells District"
+BS Bahamas "West Grand Bahama District"
+BT Bhutan 
+BT Bhutan "Bumthang Dzongkhag"
+BT Bhutan Chukha
+BT Bhutan Dagana
+BT Bhutan Gasa
+BT Bhutan Haa
+BT Bhutan Lhuntse
+BT Bhutan Mongar
+BT Bhutan Paro
+BT Bhutan "Punakha Dzongkhag"
+BT Bhutan "Samdrup Jongkhar"
+BT Bhutan "Samtse Dzongkhag"
+BT Bhutan "Sarpang Dzongkhag"
+BT Bhutan "Thimphu Dzongkhag"
+BT Bhutan "Trashigang Dzongkhag"
+BT Bhutan "Trashi Yangste"
+BT Bhutan "Trongsa Dzongkhag"
+BT Bhutan "Wangdue Phodrang Dzongkhag"
+BT Bhutan "Zhemgang Dzongkhag"
+BV "Bouvet Island" 
+BW Botswana 
+BW Botswana "Central District"
+BW Botswana "Chobe District"
+BW Botswana "City of Francistown"
+BW Botswana Gaborone
+BW Botswana "Ghanzi District"
+BW Botswana Jwaneng
+BW Botswana "Kgalagadi District"
+BW Botswana "Kgatleng District"
+BW Botswana "Kweneng District"
+BW Botswana Lobatse
+BW Botswana Ngwaketsi
+BW Botswana North-West
+BW Botswana "Selibe Phikwe"
+BW Botswana South-East
+BW Botswana "Sowa Town"
+BY Belarus 
+BY Belarus Brest
+BY Belarus Grodnenskaya
+BY Belarus "Homyel’ Voblasc’"
+BY Belarus Minsk
+BY Belarus "Minsk City"
+BY Belarus Mogilev
+BY Belarus Vitebsk
+BZ Belize 
+BZ Belize "Belize District"
+BZ Belize "Cayo District"
+BZ Belize "Corozal District"
+BZ Belize "Orange Walk District"
+BZ Belize "Stann Creek District"
+BZ Belize "Toledo District"
+CA Canada 
+CA Canada Alberta
+CA Canada "British Columbia"
+CA Canada Manitoba
+CA Canada "New Brunswick"
+CA Canada "Newfoundland and Labrador"
+CA Canada "Northwest Territories"
+CA Canada "Nova Scotia"
+CA Canada Nunavut
+CA Canada Ontario
+CA Canada "Prince Edward Island"
+CA Canada Quebec
+CA Canada Saskatchewan
+CA Canada Yukon
+CC "Cocos (Keeling) Islands" 
+CD "DR Congo" 
+CD "DR Congo" Bas-Congo
+CD "DR Congo" Haut-Katanga
+CD "DR Congo" Haut-Lomami
+CD "DR Congo" Haut-Uele
+CD "DR Congo" Ituri
+CD "DR Congo" Kasai
+CD "DR Congo" Kasaï-Oriental
+CD "DR Congo" "Kinshasa City"
+CD "DR Congo" Kwango
+CD "DR Congo" Kwilu
+CD "DR Congo" Lomami
+CD "DR Congo" Lualaba
+CD "DR Congo" Mai-Ndombe
+CD "DR Congo" Maniema
+CD "DR Congo" Mongala
+CD "DR Congo" "Nord Kivu"
+CD "DR Congo" Nord-Ubangi
+CD "DR Congo" Sankuru
+CD "DR Congo" "South Kivu Province"
+CD "DR Congo" Sud-Ubangi
+CD "DR Congo" Tanganyika
+CD "DR Congo" Tshopo
+CD "DR Congo" Tshuapa
+CF "Central African Republic" 
+CF "Central African Republic" Bamingui-Bangoran
+CF "Central African Republic" Bangui
+CF "Central African Republic" Basse-Kotto
+CF "Central African Republic" Haute-Kotto
+CF "Central African Republic" Haut-Mbomou
+CF "Central African Republic" Kémo
+CF "Central African Republic" Lobaye
+CF "Central African Republic" Mambéré-Kadéï
+CF "Central African Republic" Mbomou
+CF "Central African Republic" Nana-Grébizi
+CF "Central African Republic" Nana-Mambéré
+CF "Central African Republic" Ombella-M'Poko
+CF "Central African Republic" Ouaka
+CF "Central African Republic" Ouham
+CF "Central African Republic" Ouham-Pendé
+CF "Central African Republic" Sangha-Mbaéré
+CF "Central African Republic" Vakaga
+CG "Congo Republic" 
+CG "Congo Republic" Brazzaville
+CG "Congo Republic" Cuvette
+CG "Congo Republic" Cuvette-Ouest
+CG "Congo Republic" Kouilou
+CG "Congo Republic" Lékoumou
+CG "Congo Republic" Likouala
+CG "Congo Republic" Niari
+CG "Congo Republic" Plateaux
+CG "Congo Republic" Pointe-Noire
+CG "Congo Republic" Pool
+CG "Congo Republic" Sangha
+CH Switzerland 
+CH Switzerland Aargau
+CH Switzerland "Appenzell Ausserrhoden"
+CH Switzerland "Appenzell Innerrhoden"
+CH Switzerland Basel-City
+CH Switzerland Basel-Landschaft
+CH Switzerland Bern
+CH Switzerland Fribourg
+CH Switzerland Geneva
+CH Switzerland Glarus
+CH Switzerland Grisons
+CH Switzerland Jura
+CH Switzerland Lucerne
+CH Switzerland Neuchâtel
+CH Switzerland Nidwalden
+CH Switzerland Obwalden
+CH Switzerland "Saint Gallen"
+CH Switzerland Schaffhausen
+CH Switzerland Schwyz
+CH Switzerland Solothurn
+CH Switzerland Thurgau
+CH Switzerland Ticino
+CH Switzerland Uri
+CH Switzerland Valais
+CH Switzerland Vaud
+CH Switzerland Zug
+CH Switzerland Zurich
+CI "Ivory Coast" 
+CI "Ivory Coast" Abidjan
+CI "Ivory Coast" Bas-Sassandra
+CI "Ivory Coast" Comoe
+CI "Ivory Coast" Denguele
+CI "Ivory Coast" Goh-Djiboua
+CI "Ivory Coast" Lacs
+CI "Ivory Coast" Lagunes
+CI "Ivory Coast" Montagnes
+CI "Ivory Coast" Sassandra-Marahoue
+CI "Ivory Coast" Savanes
+CI "Ivory Coast" "Vallee du Bandama"
+CI "Ivory Coast" Woroba
+CI "Ivory Coast" "Yamoussoukro Autonomous District"
+CI "Ivory Coast" Zanzan
+CK "Cook Islands" 
+CL Chile 
+CL Chile Antofagasta
+CL Chile Atacama
+CL Chile Aysén
+CL Chile "Coquimbo Region"
+CL Chile "Los Lagos Region"
+CL Chile "Los Ríos Region"
+CL Chile "Maule Region"
+CL Chile "Ñuble"
+CL Chile "O'Higgins Region"
+CL Chile "Region de Arica y Parinacota"
+CL Chile "Region de la Araucania"
+CL Chile "Region del Biobio"
+CL Chile "Region de Valparaiso"
+CL Chile "Region of Magallanes"
+CL Chile "Santiago Metropolitan"
+CL Chile Tarapacá
+CM Cameroon 
+CM Cameroon "Adamaoua Region"
+CM Cameroon Centre
+CM Cameroon East
+CM Cameroon "Far North Region"
+CM Cameroon Littoral
+CM Cameroon "North Region"
+CM Cameroon "North-West Region"
+CM Cameroon South
+CM Cameroon "South-West Region"
+CM Cameroon "West Region"
+CN China 
+CN China Anhui
+CN China Beijing
+CN China Chongqing
+CN China Fujian
+CN China Gansu
+CN China Guangdong
+CN China Guangxi
+CN China Guizhou
+CN China Hainan
+CN China Hebei
+CN China Heilongjiang
+CN China Henan
+CN China Hubei
+CN China Hunan
+CN China "Inner Mongolia Autonomous Region"
+CN China Jiangsu
+CN China Jiangxi
+CN China Jilin
+CN China Liaoning
+CN China "Ningxia Hui Autonomous Region"
+CN China Qinghai
+CN China Shaanxi
+CN China Shandong
+CN China Shanghai
+CN China Shanxi
+CN China Sichuan
+CN China Tianjin
+CN China Tibet
+CN China "Xinjiang Uyghur Autonomous Region"
+CN China Yunnan
+CN China Zhejiang
+CO Colombia 
+CO Colombia Amazonas
+CO Colombia Antioquia
+CO Colombia Atlántico
+CO Colombia "Bogota D.C."
+CO Colombia Cundinamarca
+CO Colombia "Departamento de Arauca"
+CO Colombia "Departamento de Bolivar"
+CO Colombia "Departamento de Boyaca"
+CO Colombia "Departamento de Caldas"
+CO Colombia "Departamento de Casanare"
+CO Colombia "Departamento de Cordoba"
+CO Colombia "Departamento de La Guajira"
+CO Colombia "Departamento del Caqueta"
+CO Colombia "Departamento del Cauca"
+CO Colombia "Departamento del Cesar"
+CO Colombia "Departamento del Choco"
+CO Colombia "Departamento del Guainia"
+CO Colombia "Departamento del Guaviare"
+CO Colombia "Departamento del Huila"
+CO Colombia "Departamento del Magdalena"
+CO Colombia "Departamento del Meta"
+CO Colombia "Departamento del Putumayo"
+CO Colombia "Departamento del Valle del Cauca"
+CO Colombia "Departamento del Vaupes"
+CO Colombia "Departamento del Vichada"
+CO Colombia "Departamento de Narino"
+CO Colombia "Departamento de Norte de Santander"
+CO Colombia "Departamento de Risaralda"
+CO Colombia "Departamento de Santander"
+CO Colombia "Departamento de Sucre"
+CO Colombia "Departamento de Tolima"
+CO Colombia "Quindio Department"
+CO Colombia "San Andres y Providencia"
+country_iso_code country_name subdivision_1_name
+CR "Costa Rica" 
+CR "Costa Rica" "Provincia de Alajuela"
+CR "Costa Rica" "Provincia de Cartago"
+CR "Costa Rica" "Provincia de Guanacaste"
+CR "Costa Rica" "Provincia de Heredia"
+CR "Costa Rica" "Provincia de Limon"
+CR "Costa Rica" "Provincia de Puntarenas"
+CR "Costa Rica" "Provincia de San Jose"
+CU Cuba 
+CU Cuba Artemisa
+CU Cuba Havana
+CU Cuba "Las Tunas"
+CU Cuba "Provincia de Camagueey"
+CU Cuba "Provincia de Ciego de Avila"
+CU Cuba "Provincia de Guantanamo"
+CU Cuba "Provincia de Holguin"
+CU Cuba "Provincia de Matanzas"
+CU Cuba "Provincia de Pinar del Rio"
+CU Cuba "Provincia de Sancti Spiritus"
+CU Cuba "Provincia de Santiago de Cuba"
+CU Cuba "Provincia de Villa Clara"
+CU Cuba "Provincia Granma"
+CV "Cabo Verde" 
+CV "Cabo Verde" "Boa Vista"
+CV "Cabo Verde" Brava
+CV "Cabo Verde" Maio
+CV "Cabo Verde" Mosteiros
+CV "Cabo Verde" Paul
+CV "Cabo Verde" "Porto Novo"
+CV "Cabo Verde" Praia
+CV "Cabo Verde" "Ribeira Brava"
+CV "Cabo Verde" "Ribeira Grande"
+CV "Cabo Verde" "Ribeira Grande de Santiago"
+CV "Cabo Verde" Sal
+CV "Cabo Verde" "Santa Catarina"
+CV "Cabo Verde" "Santa Catarina do Fogo"
+CV "Cabo Verde" "Santa Cruz"
+CV "Cabo Verde" "São Domingos"
+CV "Cabo Verde" "São Filipe"
+CV "Cabo Verde" "São Lourenço dos Órgãos"
+CV "Cabo Verde" "São Miguel"
+CV "Cabo Verde" "São Salvador do Mundo"
+CV "Cabo Verde" "São Vicente"
+CV "Cabo Verde" Tarrafal
+CV "Cabo Verde" "Tarrafal de São Nicolau"
+CW Curaçao 
+CX "Christmas Island" 
+CY Cyprus 
+CY Cyprus Ammochostos
+CY Cyprus Keryneia
+CY Cyprus Larnaka
+CY Cyprus "Limassol District"
+CY Cyprus Nicosia
+CY Cyprus Pafos
+CZ Czechia 
+CZ Czechia "Central Bohemia"
+CZ Czechia "Hlavni mesto Praha"
+CZ Czechia "Jihocesky kraj"
+CZ Czechia "Karlovarsky kraj"
+CZ Czechia "Kraj Vysocina"
+CZ Czechia "Kralovehradecky kraj"
+CZ Czechia "Liberecky kraj"
+CZ Czechia "Moravskoslezsky kraj"
+CZ Czechia "Olomoucky kraj"
+CZ Czechia "Pardubicky kraj"
+CZ Czechia "Plzensky kraj"
+CZ Czechia "South Moravian"
+CZ Czechia "Ustecky kraj"
+CZ Czechia Zlín
+DE Germany 
+DE Germany Baden-Württemberg
+DE Germany Bavaria
+DE Germany Brandenburg
+DE Germany Bremen
+DE Germany "Free and Hanseatic City of Hamburg"
+DE Germany Hesse
+DE Germany "Land Berlin"
+DE Germany "Lower Saxony"
+DE Germany Mecklenburg-Vorpommern
+DE Germany "North Rhine-Westphalia"
+DE Germany Rheinland-Pfalz
+DE Germany Saarland
+DE Germany Saxony
+DE Germany Saxony-Anhalt
+DE Germany Schleswig-Holstein
+DE Germany Thuringia
+DJ Djibouti 
+DJ Djibouti "Ali Sabieh Region"
+DJ Djibouti "Arta Region"
+DJ Djibouti Dikhil
+DJ Djibouti Djibouti
+DJ Djibouti Obock
+DJ Djibouti Tadjourah
+DK Denmark 
+DK Denmark "Capital Region"
+DK Denmark "Central Jutland"
+DK Denmark "North Denmark"
+DK Denmark "South Denmark"
+DK Denmark Zealand
+DM Dominica 
+DM Dominica "Saint Andrew"
+DM Dominica "Saint David"
+DM Dominica "Saint George"
+DM Dominica "Saint John"
+DM Dominica "Saint Joseph"
+DM Dominica "Saint Luke"
+DM Dominica "Saint Mark"
+DM Dominica "Saint Patrick"
+DM Dominica "Saint Paul"
+DM Dominica "Saint Peter"
+DO "Dominican Republic" 
+DO "Dominican Republic" Nacional
+DO "Dominican Republic" "Provincia de Azua"
+DO "Dominican Republic" "Provincia de Baoruco"
+DO "Dominican Republic" "Provincia de Barahona"
+DO "Dominican Republic" "Provincia de Dajabon"
+DO "Dominican Republic" "Provincia de Elias Pina"
+DO "Dominican Republic" "Provincia de El Seibo"
+DO "Dominican Republic" "Provincia de Hato Mayor"
+DO "Dominican Republic" "Provincia de Hermanas Mirabal"
+DO "Dominican Republic" "Provincia de Independencia"
+DO "Dominican Republic" "Provincia de La Altagracia"
+DO "Dominican Republic" "Provincia de La Romana"
+DO "Dominican Republic" "Provincia de La Vega"
+DO "Dominican Republic" "Provincia de Monsenor Nouel"
+DO "Dominican Republic" "Provincia de Monte Cristi"
+DO "Dominican Republic" "Provincia de Monte Plata"
+DO "Dominican Republic" "Provincia de Pedernales"
+DO "Dominican Republic" "Provincia de Peravia"
+DO "Dominican Republic" "Provincia de San Cristobal"
+DO "Dominican Republic" "Provincia de San Jose de Ocoa"
+DO "Dominican Republic" "Provincia de San Juan"
+DO "Dominican Republic" "Provincia de San Pedro de Macoris"
+DO "Dominican Republic" "Provincia de Santiago"
+DO "Dominican Republic" "Provincia de Santiago Rodriguez"
+DO "Dominican Republic" "Provincia de Santo Domingo"
+DO "Dominican Republic" "Provincia de Valverde"
+DO "Dominican Republic" "Provincia Duarte"
+DO "Dominican Republic" "Provincia Espaillat"
+DO "Dominican Republic" "Provincia Maria Trinidad Sanchez"
+DO "Dominican Republic" "Provincia Sanchez Ramirez"
+DO "Dominican Republic" "Puerto Plata"
+DO "Dominican Republic" Samaná
+DZ Algeria 
+DZ Algeria Adrar
+DZ Algeria "Aïn Defla"
+DZ Algeria "Aïn Témouchent"
+DZ Algeria Algiers
+DZ Algeria Annaba
+DZ Algeria Batna
+DZ Algeria Béchar
+DZ Algeria Béjaïa
+DZ Algeria "Beni Abbes"
+DZ Algeria Biskra
+DZ Algeria Blida
+DZ Algeria "Bordj Badji Mokhtar"
+DZ Algeria "Bordj Bou Arréridj"
+DZ Algeria Bouira
+DZ Algeria Boumerdes
+DZ Algeria Chlef
+DZ Algeria Constantine
+DZ Algeria Djanet
+DZ Algeria Djelfa
+DZ Algeria "El Bayadh"
+DZ Algeria "El Menia"
+DZ Algeria "El Mghair"
+DZ Algeria "El Oued"
+DZ Algeria "El Tarf"
+DZ Algeria Ghardaia
+DZ Algeria Guelma
+DZ Algeria Illizi
+DZ Algeria "In Guezzam"
+DZ Algeria "In Salah"
+DZ Algeria Jijel
+DZ Algeria Khenchela
+DZ Algeria Laghouat
+DZ Algeria Mascara
+DZ Algeria Medea
+DZ Algeria Mila
+DZ Algeria Mostaganem
+DZ Algeria M'Sila
+DZ Algeria Naama
+DZ Algeria Oran
+DZ Algeria Ouargla
+DZ Algeria "Ouled Djellal"
+DZ Algeria "Oum el Bouaghi"
+DZ Algeria Relizane
+DZ Algeria Saida
+DZ Algeria Sétif
+DZ Algeria "Sidi Bel Abbès"
+DZ Algeria Skikda
+DZ Algeria "Souk Ahras"
+DZ Algeria Tamanrasset
+DZ Algeria Tébessa
+DZ Algeria Tiaret
+DZ Algeria Timimoun
+DZ Algeria Tindouf
+DZ Algeria Tipaza
+DZ Algeria Tissemsilt
+DZ Algeria "Tizi Ouzou"
+DZ Algeria Tlemcen
+DZ Algeria Touggourt
+EC Ecuador 
+EC Ecuador "Provincia de Bolivar"
+EC Ecuador "Provincia de Cotopaxi"
+EC Ecuador "Provincia de El Oro"
+EC Ecuador "Provincia de Esmeraldas"
+EC Ecuador "Provincia de Francisco de Orellana"
+EC Ecuador "Provincia de Galapagos"
+EC Ecuador "Provincia de Imbabura"
+EC Ecuador "Provincia del Azuay"
+EC Ecuador "Provincia del Canar"
+EC Ecuador "Provincia del Carchi"
+EC Ecuador "Provincia del Chimborazo"
+EC Ecuador "Provincia del Guayas"
+EC Ecuador "Provincia de Loja"
+EC Ecuador "Provincia de Los Rios"
+EC Ecuador "Provincia del Pastaza"
+EC Ecuador "Provincia del Tungurahua"
+EC Ecuador "Provincia de Manabi"
+EC Ecuador "Provincia de Morona-Santiago"
+EC Ecuador "Provincia de Napo"
+EC Ecuador "Provincia de Pichincha"
+EC Ecuador "Provincia de Santa Elena"
+EC Ecuador "Provincia de Santo Domingo de los Tsachilas"
+EC Ecuador "Provincia de Sucumbios"
+EC Ecuador "Provincia de Zamora-Chinchipe"
+EE Estonia 
+EE Estonia Harjumaa
+EE Estonia Hiiumaa
+EE Estonia Ida-Virumaa
+EE Estonia Järvamaa
+EE Estonia Jõgevamaa
+EE Estonia Lääne
+EE Estonia Lääne-Virumaa
+EE Estonia Pärnumaa
+EE Estonia Põlvamaa
+EE Estonia Raplamaa
+EE Estonia Saare
+EE Estonia Tartu
+EE Estonia Valgamaa
+EE Estonia Viljandimaa
+EE Estonia Võrumaa
+EG Egypt 
+EG Egypt Alexandria
+EG Egypt Aswan
+EG Egypt Asyut
+EG Egypt Beheira
+EG Egypt "Beni Suweif"
+EG Egypt "Cairo Governorate"
+EG Egypt Dakahlia
+EG Egypt "Damietta Governorate"
+EG Egypt Faiyum
+EG Egypt Gharbia
+EG Egypt Giza
+EG Egypt "Ismailia Governorate"
+EG Egypt "Kafr el-Sheikh"
+EG Egypt Luxor
+EG Egypt Matruh
+EG Egypt Minya
+EG Egypt Monufia
+EG Egypt "New Valley"
+EG Egypt "North Sinai"
+EG Egypt "Port Said"
+EG Egypt Qalyubia
+EG Egypt Qena
+EG Egypt "Red Sea"
+EG Egypt Sharqia
+EG Egypt Sohag
+EG Egypt "South Sinai"
+EG Egypt Suez
+EH "Western Sahara" 
+ER Eritrea 
+ER Eritrea "Anseba Region"
+ER Eritrea "Debub Region"
+ER Eritrea "Gash-Barka Region"
+ER Eritrea "Maekel Region"
+ER Eritrea "Northern Red Sea"
+ER Eritrea "Southern Red Sea Region"
+ES Spain 
+ES Spain Andalusia
+ES Spain Aragon
+ES Spain "Balearic Islands"
+ES Spain "Basque Country"
+ES Spain "Canary Islands"
+ES Spain Cantabria
+ES Spain "Castille and León"
+ES Spain "Castille-La Mancha"
+ES Spain Catalonia
+ES Spain Ceuta
+ES Spain Extremadura
+ES Spain Galicia
+ES Spain "La Rioja"
+ES Spain Madrid
+ES Spain Melilla
+ES Spain Murcia
+ES Spain Navarre
+ES Spain "Principality of Asturias"
+ES Spain Valencia
+ET Ethiopia 
+ET Ethiopia "Addis Ababa"
+ET Ethiopia "Afar Region"
+ET Ethiopia Amhara
+ET Ethiopia "Bīnshangul Gumuz"
+ET Ethiopia "Dire Dawa"
+ET Ethiopia Gambela
+ET Ethiopia "Harari Region"
+ET Ethiopia Oromiya
+ET Ethiopia Somali
+ET Ethiopia "Southern Nations
+ET Ethiopia Tigray
+FI Finland 
+FI Finland "Central Finland"
+FI Finland "Central Ostrobothnia"
+FI Finland Kainuu
+FI Finland Kanta-Häme
+FI Finland Kymenlaakso
+FI Finland Lapland
+FI Finland "North Karelia"
+FI Finland "North Ostrobothnia"
+FI Finland "North Savo"
+FI Finland Ostrobothnia
+FI Finland "Paijat-Hame Region"
+FI Finland Pirkanmaa
+FI Finland Satakunta
+FI Finland "Southern Savonia"
+FI Finland "South Karelia Region"
+FI Finland "South Ostrobothnia"
+FI Finland "Southwest Finland"
+FI Finland Uusimaa
+FJ Fiji 
+FJ Fiji Central
+FJ Fiji Rotuma
+FJ Fiji Western
+FK "Falkland Islands" 
+FM "Federated States of Micronesia" 
+FM "Federated States of Micronesia" "State of Chuuk"
+FM "Federated States of Micronesia" "State of Kosrae"
+FM "Federated States of Micronesia" "State of Pohnpei"
+FM "Federated States of Micronesia" "State of Yap"
+FO "Faroe Islands" 
+FR France 
+FR France Auvergne-Rhone-Alpes
+FR France Bourgogne-Franche-Comte
+FR France Brittany
+FR France "Centre-Val de Loire"
+FR France Corsica
+FR France "Grand Est"
+FR France Hauts-de-France
+FR France "Île-de-France"
+FR France Normandy
+FR France Nouvelle-Aquitaine
+FR France Occitanie
+FR France "Pays de la Loire"
+FR France "Provence-Alpes-Côte d'Azur"
+GA Gabon 
+GA Gabon Estuaire
+GA Gabon Haut-Ogooué
+GA Gabon Moyen-Ogooué
+GA Gabon Ngouni
+GA Gabon Nyanga
+GA Gabon Ogooué-Ivindo
+GA Gabon Ogooué-Lolo
+GA Gabon Woleu-Ntem
+GB "United Kingdom" 
+GB "United Kingdom" England
+GB "United Kingdom" "Northern Ireland"
+GB "United Kingdom" Scotland
+GB "United Kingdom" Wales
+GD Grenada 
+GD Grenada "Carriacou and Petite Martinique"
+GD Grenada "Saint Andrew"
+GD Grenada "Saint David"
+GD Grenada "Saint George"
+GD Grenada "Saint Mark"
+GD Grenada "Saint Patrick"
+GE Georgia 
+GE Georgia Abkhazia
+GE Georgia Achara
+GE Georgia Guria
+GE Georgia Imereti
+GE Georgia Kakheti
+GE Georgia "K'alak'i T'bilisi"
+GE Georgia "Kvemo Kartli"
+GE Georgia Mtskheta-Mtianeti
+GE Georgia "Racha-Lechkhumi and Kvemo Svaneti"
+GE Georgia "Samegrelo and Zemo Svaneti"
+GE Georgia Samtskhe-Javakheti
+GE Georgia "Shida Kartli"
+GF "French Guiana" 
+GG Guernsey 
+GH Ghana 
+GH Ghana Ahafo
+GH Ghana "Ashanti Region"
+GH Ghana Bono
+GH Ghana "Bono East"
+GH Ghana "Central Region"
+GH Ghana "Eastern Region"
+GH Ghana "Greater Accra Region"
+GH Ghana "North East"
+GH Ghana "Northern Region"
+GH Ghana Oti
+GH Ghana Savannah
+GH Ghana "Upper East Region"
+GH Ghana "Upper West Region"
+GH Ghana "Volta Region"
+GH Ghana "Western North"
+GH Ghana "Western Region"
+GI Gibraltar 
+GL Greenland 
+GL Greenland Avannaata
+GL Greenland Kujalleq
+GL Greenland Qeqertalik
+GL Greenland Qeqqata
+GL Greenland Sermersooq
+GM Gambia 
+GM Gambia Banjul
+GM Gambia "Central River"
+GM Gambia "Lower River Division"
+GM Gambia "North Bank"
+GM Gambia "West Coast"
+GN Guinea 
+GN Guinea "Boke Region"
+GN Guinea "Conakry Region"
+GP Guadeloupe 
+GQ "Equatorial Guinea" 
+GQ "Equatorial Guinea" Annobon
+GQ "Equatorial Guinea" "Bioko Norte"
+GQ "Equatorial Guinea" "Bioko Sur"
+GQ "Equatorial Guinea" "Centro Sur"
+GQ "Equatorial Guinea" Djibloho
+GQ "Equatorial Guinea" Kié-Ntem
+GQ "Equatorial Guinea" Litoral
+GQ "Equatorial Guinea" Wele-Nzas
+GR Greece 
+GR Greece Attica
+GR Greece "Central Greece"
+GR Greece "Central Macedonia"
+GR Greece Crete
+GR Greece "East Macedonia and Thrace"
+GR Greece Epirus
+GR Greece "Ionian Islands"
+GR Greece "Mount Athos"
+GR Greece "North Aegean"
+GR Greece Peloponnese
+GR Greece "South Aegean"
+GR Greece Thessaly
+GR Greece "West Greece"
+GR Greece "West Macedonia"
+GS "South Georgia and the South Sandwich Islands" 
+GT Guatemala 
+GT Guatemala "Departamento de Alta Verapaz"
+GT Guatemala "Departamento de Baja Verapaz"
+GT Guatemala "Departamento de Chimaltenango"
+GT Guatemala "Departamento de Chiquimula"
+GT Guatemala "Departamento de El Progreso"
+GT Guatemala "Departamento de Escuintla"
+GT Guatemala "Departamento de Guatemala"
+GT Guatemala "Departamento de Huehuetenango"
+GT Guatemala "Departamento de Izabal"
+GT Guatemala "Departamento de Jalapa"
+GT Guatemala "Departamento de Jutiapa"
+GT Guatemala "Departamento del Peten"
+GT Guatemala "Departamento del Quiche"
+GT Guatemala "Departamento de Quetzaltenango"
+GT Guatemala "Departamento de Sacatepequez"
+GT Guatemala "Departamento de San Marcos"
+GT Guatemala "Departamento de Santa Rosa"
+GT Guatemala "Departamento de Solola"
+GT Guatemala "Departamento de Totonicapan"
+GT Guatemala "Departamento de Zacapa"
+GT Guatemala Suchitepeque
+GU Guam 
+GW Guinea-Bissau 
+GW Guinea-Bissau Bafata
+GW Guinea-Bissau Biombo
+GW Guinea-Bissau Bissau
+GW Guinea-Bissau Bolama
+GW Guinea-Bissau "Cacheu Region"
+GW Guinea-Bissau Gabu
+GW Guinea-Bissau "Oio Region"
+GW Guinea-Bissau Quinara
+GW Guinea-Bissau Tombali
+GY Guyana 
+GY Guyana "Barima-Waini Region"
+GY Guyana "Cuyuni-Mazaruni Region"
+GY Guyana "Demerara-Mahaica Region"
+GY Guyana "East Berbice-Corentyne Region"
+GY Guyana "Essequibo Islands-West Demerara Region"
+GY Guyana "Mahaica-Berbice Region"
+GY Guyana "Pomeroon-Supenaam Region"
+GY Guyana "Potaro-Siparuni Region"
+GY Guyana "Upper Demerara-Berbice Region"
+GY Guyana "Upper Takutu-Upper Essequibo Region"
+HK "Hong Kong" 
+HK "Hong Kong" "Central and Western District"
+HK "Hong Kong" Eastern
+HK "Hong Kong" "Islands District"
+HK "Hong Kong" "Kowloon City"
+HK "Hong Kong" "Kwai Tsing"
+HK "Hong Kong" "Kwun Tong"
+HK "Hong Kong" North
+HK "Hong Kong" "Sai Kung District"
+HK "Hong Kong" "Sham Shui Po"
+HK "Hong Kong" "Sha Tin"
+HK "Hong Kong" Southern
+HK "Hong Kong" "Tai Po District"
+HK "Hong Kong" "Tsuen Wan District"
+HK "Hong Kong" "Tuen Mun"
+HK "Hong Kong" "Wan Chai"
+HK "Hong Kong" "Wong Tai Sin"
+HK "Hong Kong" "Yau Tsim Mong"
+HK "Hong Kong" "Yuen Long District"
+HM "Heard and McDonald Islands" 
+HN Honduras 
+HN Honduras "Bay Islands"
+HN Honduras "Departamento de Atlantida"
+HN Honduras "Departamento de Choluteca"
+HN Honduras "Departamento de Colon"
+HN Honduras "Departamento de Comayagua"
+HN Honduras "Departamento de Copan"
+HN Honduras "Departamento de Cortes"
+HN Honduras "Departamento de El Paraiso"
+HN Honduras "Departamento de Francisco Morazan"
+HN Honduras "Departamento de Gracias a Dios"
+HN Honduras "Departamento de Intibuca"
+HN Honduras "Departamento de La Paz"
+HN Honduras "Departamento de Lempira"
+HN Honduras "Departamento de Ocotepeque"
+HN Honduras "Departamento de Olancho"
+HN Honduras "Departamento de Santa Barbara"
+HN Honduras "Departamento de Valle"
+HN Honduras "Departamento de Yoro"
+HR Croatia 
+HR Croatia Bjelovar-Bilogora
+HR Croatia "City of Zagreb"
+HR Croatia "Dubrovacko-Neretvanska Zupanija"
+HR Croatia Istria
+HR Croatia Karlovac
+HR Croatia Koprivinica-Krizevci
+HR Croatia Krapina-Zagorje
+HR Croatia Lika-Senj
+HR Croatia Medimurje
+HR Croatia "Osjecko-Baranjska Zupanija"
+HR Croatia Pozega-Slavonia
+HR Croatia "Primorsko-Goranska Zupanija"
+HR Croatia Sibenik-Knin
+HR Croatia Sisak-Moslavina
+HR Croatia "Slavonski Brod-Posavina"
+HR Croatia Split-Dalmatia
+HR Croatia Varazdin
+HR Croatia Virovitica-Podravina
+HR Croatia Vukovar-Sirmium
+HR Croatia Zadar
+HR Croatia "Zagreb County"
+HT Haiti 
+HT Haiti Centre
+HT Haiti "Departement de l'Artibonite"
+HT Haiti "Departement de l'Ouest"
+HT Haiti "Departement de Nippes"
+HT Haiti Grandans
+HT Haiti Nord
+HT Haiti Nord-Ouest
+HT Haiti Sud
+HT Haiti Sud-Est
+HU Hungary 
+HU Hungary Bács-Kiskun
+HU Hungary Baranya
+HU Hungary "Bekes County"
+HU Hungary Borsod-Abaúj-Zemplén
+HU Hungary Budapest
+HU Hungary "Csongrad megye"
+HU Hungary Fejér
+HU Hungary "Győr-Moson-Sopron"
+HU Hungary Hajdú-Bihar
+HU Hungary "Heves megye"
+HU Hungary Jász-Nagykun-Szolnok
+HU Hungary Komárom-Esztergom
+HU Hungary "Nograd megye"
+HU Hungary "Pest megye"
+HU Hungary "Somogy megye"
+HU Hungary Szabolcs-Szatmár-Bereg
+HU Hungary "Tolna megye"
+HU Hungary Vas
+HU Hungary "Veszprem megye"
+HU Hungary Zala
+ID Indonesia 
+ID Indonesia Aceh
+ID Indonesia Bali
+ID Indonesia "Bangka–Belitung Islands"
+ID Indonesia Banten
+ID Indonesia Bengkulu
+ID Indonesia "Central Java"
+ID Indonesia "Central Kalimantan"
+ID Indonesia "Central Sulawesi"
+ID Indonesia "East Java"
+ID Indonesia "East Kalimantan"
+ID Indonesia "East Nusa Tenggara"
+ID Indonesia Gorontalo
+ID Indonesia Jakarta
+ID Indonesia Jambi
+ID Indonesia Lampung
+ID Indonesia Maluku
+ID Indonesia "North Kalimantan"
+ID Indonesia "North Maluku"
+ID Indonesia "North Sulawesi"
+ID Indonesia "North Sumatra"
+ID Indonesia Papua
+ID Indonesia Riau
+ID Indonesia "Riau Islands"
+ID Indonesia "Southeast Sulawesi"
+ID Indonesia "South Kalimantan"
+ID Indonesia "South Sulawesi"
+ID Indonesia "South Sumatra"
+ID Indonesia "West Java"
+ID Indonesia "West Kalimantan"
+ID Indonesia "West Nusa Tenggara"
+ID Indonesia "West Papua"
+ID Indonesia "West Sulawesi"
+ID Indonesia "West Sumatra"
+ID Indonesia Yogyakarta
+IE Ireland 
+IE Ireland Connaught
+IE Ireland Leinster
+IE Ireland Munster
+IE Ireland Ulster
+IL Israel 
+IL Israel "Central District"
+IL Israel Haifa
+IL Israel Jerusalem
+IL Israel "Northern District"
+IL Israel "Southern District"
+IL Israel "Tel Aviv"
+IM "Isle of Man" 
+IN India 
+IN India "Andaman and Nicobar"
+IN India "Andhra Pradesh"
+IN India "Arunachal Pradesh"
+IN India Assam
+IN India Bihar
+IN India Chandigarh
+IN India Chhattisgarh
+IN India "Dadra and Nagar Haveli and Daman and Diu"
+IN India Goa
+IN India Gujarat
+IN India Haryana
+IN India "Himachal Pradesh"
+IN India "Jammu and Kashmir"
+IN India Jharkhand
+IN India Karnataka
+IN India Kerala
+IN India Lakshadweep
+IN India "Madhya Pradesh"
+IN India Maharashtra
+IN India Manipur
+IN India Meghalaya
+IN India Mizoram
+IN India Nagaland
+IN India "National Capital Territory of Delhi"
+IN India Odisha
+IN India Punjab
+IN India Rajasthan
+IN India Sikkim
+IN India "Tamil Nadu"
+IN India Telangana
+IN India Tripura
+IN India "Union Territory of Puducherry"
+IN India Uttarakhand
+IN India "Uttar Pradesh"
+IN India "West Bengal"
+IO "British Indian Ocean Territory" 
+IQ Iraq 
+IQ Iraq "Al Anbar"
+IQ Iraq "An Najaf"
+IQ Iraq Baghdad
+IQ Iraq Basra
+IQ Iraq "Dhi Qar"
+IQ Iraq "Diyālá"
+IQ Iraq Duhok
+IQ Iraq Erbil
+IQ Iraq Kirkuk
+IQ Iraq Maysan
+IQ Iraq "Muhafazat al Qadisiyah"
+IQ Iraq "Muhafazat Babil"
+IQ Iraq "Muhafazat Karbala'"
+IQ Iraq "Muhafazat Wasit"
+IQ Iraq Nineveh
+IQ Iraq "Salah ad Din"
+IQ Iraq Sulaymaniyah
+IR Iran 
+IR Iran "Alborz Province"
+IR Iran "Ardabil Province"
+IR Iran "Bushehr Province"
+IR Iran "Chaharmahal and Bakhtiari Province"
+IR Iran "East Azerbaijan Province"
+IR Iran Fars
+IR Iran "Gilan Province"
+IR Iran Golestan
+IR Iran "Hamadan Province"
+IR Iran Hormozgan
+IR Iran "Ilam Province"
+IR Iran Isfahan
+IR Iran Kerman
+IR Iran "Kermanshah Province"
+IR Iran Khuzestan
+IR Iran "Kohgiluyeh and Boyer-Ahmad Province"
+IR Iran "Kurdistan Province"
+IR Iran "Lorestan Province"
+IR Iran Markazi
+IR Iran "Māzandarān"
+IR Iran "North Khorasan"
+IR Iran "Qazvin Province"
+IR Iran "Qom Province"
+IR Iran "Razavi Khorasan"
+IR Iran "Semnan Province"
+IR Iran "Sistan and Baluchestan"
+IR Iran "South Khorasan Province"
+IR Iran Tehran
+IR Iran "West Azerbaijan Province"
+IR Iran "Yazd Province"
+IR Iran Zanjan
+IS Iceland 
+IS Iceland "Capital Region"
+IS Iceland East
+IS Iceland Northeast
+IS Iceland Northwest
+IS Iceland South
+IS Iceland "Southern Peninsula"
+IS Iceland West
+IS Iceland Westfjords
+IT Italy 
+IT Italy Abruzzo
+IT Italy "Aosta Valley"
+IT Italy Apulia
+IT Italy Basilicate
+IT Italy Calabria
+IT Italy Campania
+IT Italy Emilia-Romagna
+IT Italy "Friuli Venezia Giulia"
+IT Italy Lazio
+IT Italy Liguria
+IT Italy Lombardy
+IT Italy Molise
+IT Italy Piedmont
+IT Italy Sardinia
+IT Italy Sicily
+IT Italy "The Marches"
+IT Italy "Trentino-Alto Adige"
+IT Italy Tuscany
+IT Italy Umbria
+IT Italy Veneto
+JE Jersey 
+JM Jamaica 
+JM Jamaica Clarendon
+JM Jamaica Hanover
+JM Jamaica Kingston
+JM Jamaica Manchester
+JM Jamaica "Parish of Saint Ann"
+JM Jamaica Portland
+JM Jamaica "Saint Andrew"
+JM Jamaica "Saint Catherine"
+JM Jamaica "Saint Elizabeth"
+JM Jamaica "Saint James"
+JM Jamaica "Saint Mary"
+JM Jamaica "Saint Thomas"
+JM Jamaica Trelawny
+JM Jamaica Westmoreland
+JO Jordan 
+JO Jordan Ajloun
+JO Jordan "Amman Governorate"
+JO Jordan Aqaba
+JO Jordan Balqa
+JO Jordan Irbid
+JO Jordan Jerash
+JO Jordan Karak
+JO Jordan "Ma’an"
+JO Jordan Madaba
+JO Jordan Mafraq
+JO Jordan Tafielah
+JO Jordan Zarqa
+JP Japan 
+JP Japan Aichi
+JP Japan Akita
+JP Japan Aomori
+JP Japan Chiba
+JP Japan Ehime
+JP Japan Fukui
+JP Japan Fukuoka
+JP Japan Fukushima-ken
+JP Japan Gifu
+JP Japan Gunma
+JP Japan Hiroshima
+JP Japan Hokkaido
+JP Japan "Hyōgo"
+JP Japan Ibaraki
+JP Japan Ishikawa
+JP Japan Iwate
+JP Japan Kagawa
+JP Japan Kagoshima
+JP Japan Kanagawa
+JP Japan Kochi
+JP Japan Kumamoto
+JP Japan Kyoto
+JP Japan Mie
+JP Japan Miyagi
+JP Japan Miyazaki
+JP Japan Nagano
+JP Japan Nagasaki
+JP Japan Nara
+JP Japan Niigata
+JP Japan Oita
+JP Japan Okayama
+JP Japan Okinawa
+JP Japan "Ōsaka"
+JP Japan Saga
+JP Japan Saitama
+JP Japan Shiga
+JP Japan Shimane
+JP Japan Shizuoka
+JP Japan Tochigi
+JP Japan Tokushima
+JP Japan Tokyo
+JP Japan Tottori
+JP Japan Toyama
+JP Japan Wakayama
+JP Japan Yamagata
+JP Japan Yamaguchi
+JP Japan Yamanashi
+KE Kenya 
+KE Kenya Baringo
+KE Kenya "Bomet District"
+KE Kenya "Bungoma District"
+KE Kenya "Busia District"
+KE Kenya "Embu District"
+KE Kenya "Garissa District"
+KE Kenya "Homa Bay District"
+KE Kenya "Isiolo District"
+KE Kenya "Kajiado District"
+KE Kenya "Kakamega District"
+KE Kenya "Kericho District"
+KE Kenya "Kiambu District"
+KE Kenya "Kilifi District"
+KE Kenya "Kirinyaga District"
+KE Kenya "Kisii District"
+KE Kenya Kisumu
+KE Kenya "Kitui District"
+KE Kenya "Kwale District"
+KE Kenya Laikipia
+KE Kenya Lamu
+KE Kenya "Machakos District"
+KE Kenya "Makueni District"
+KE Kenya "Mandera District"
+KE Kenya "Marakwet District"
+KE Kenya "Marsabit District"
+KE Kenya Meru
+KE Kenya "Migori District"
+KE Kenya "Mombasa District"
+KE Kenya "Murang'a District"
+KE Kenya "Nairobi Province"
+KE Kenya "Nakuru District"
+KE Kenya "Nandi South District"
+KE Kenya "Narok District"
+KE Kenya "Nyamira District"
+KE Kenya "Nyandarua District"
+KE Kenya "Nyeri District"
+KE Kenya "Samburu District"
+KE Kenya "Siaya District"
+KE Kenya "Taita Taveta District"
+KE Kenya "Tana River District"
+KE Kenya "Tharaka District"
+KE Kenya "Trans Nzoia District"
+KE Kenya "Turkana District"
+KE Kenya "Uasin Gishu"
+KE Kenya "Vihiga District"
+KE Kenya "Wajir District"
+KE Kenya "West Pokot District"
+KG Kyrgyzstan 
+KG Kyrgyzstan Batken
+KG Kyrgyzstan "Chuyskaya Oblast'"
+KG Kyrgyzstan "Gorod Bishkek"
+KG Kyrgyzstan Issyk-Kul
+KG Kyrgyzstan "Jalal-Abad oblast"
+KG Kyrgyzstan "Naryn oblast"
+KG Kyrgyzstan "Osh City"
+KG Kyrgyzstan "Osh Oblasty"
+KG Kyrgyzstan Talas
+KH Cambodia 
+KH Cambodia "Banteay Meanchey"
+KH Cambodia Battambang
+KH Cambodia "Kampong Cham"
+KH Cambodia "Kampong Chhnang"
+KH Cambodia "Kampong Speu"
+KH Cambodia "Kampong Thom"
+KH Cambodia Kandal
+KH Cambodia Kep
+KH Cambodia "Koh Kong"
+KH Cambodia Kratie
+KH Cambodia Mondolkiri
+KH Cambodia "Otar Meanchey"
+KH Cambodia Pailin
+KH Cambodia "Phnom Penh"
+KH Cambodia "Preah Sihanouk"
+KH Cambodia "Preah Vihear"
+KH Cambodia "Prey Veng"
+KH Cambodia Pursat
+KH Cambodia "Siem Reap"
+KH Cambodia "Stung Treng"
+KH Cambodia "Svay Rieng"
+KH Cambodia Takeo
+KH Cambodia "Tboung Khmum"
+KI Kiribati 
+KI Kiribati "Gilbert Islands"
+KI Kiribati "Line Islands"
+KI Kiribati "Phoenix Islands"
+KM Comoros 
+KM Comoros "Grande Comore"
+KM Comoros Mohéli
+KM Comoros Ndzuwani
+KN "St Kitts and Nevis" 
+KN "St Kitts and Nevis" "Christ Church Nichola Town"
+KN "St Kitts and Nevis" "Middle Island"
+KN "St Kitts and Nevis" "Saint Anne Sandy Point"
+KN "St Kitts and Nevis" "Saint George Basseterre"
+KN "St Kitts and Nevis" "Saint George Gingerland"
+KN "St Kitts and Nevis" "Saint James Windward"
+KN "St Kitts and Nevis" "Saint John Capesterre"
+KN "St Kitts and Nevis" "Saint John Figtree"
+KN "St Kitts and Nevis" "Saint Mary Cayon"
+KN "St Kitts and Nevis" "Saint Paul Capesterre"
+KN "St Kitts and Nevis" "Saint Paul Charlestown"
+KN "St Kitts and Nevis" "Saint Peter Basseterre"
+KN "St Kitts and Nevis" "Saint Thomas Lowland"
+KN "St Kitts and Nevis" "Trinity Palmetto Point"
+KP "North Korea" 
+KP "North Korea" Chagang-do
+KP "North Korea" Pyongyang
+KR "South Korea" 
+KR "South Korea" Busan
+KR "South Korea" Chungcheongnam-do
+KR "South Korea" Daegu
+KR "South Korea" Daejeon
+KR "South Korea" Gangwon-do
+KR "South Korea" Gwangju
+KR "South Korea" Gyeonggi-do
+KR "South Korea" Gyeongsangbuk-do
+KR "South Korea" Gyeongsangnam-do
+KR "South Korea" Incheon
+KR "South Korea" Jeju-do
+KR "South Korea" Jeollabuk-do
+KR "South Korea" Jeollanam-do
+KR "South Korea" "North Chungcheong"
+KR "South Korea" Sejong-si
+KR "South Korea" Seoul
+KR "South Korea" Ulsan
+KW Kuwait 
+KW Kuwait "Al Aḩmadī"
+KW Kuwait "Al Asimah"
+KW Kuwait "Al Farwaniyah"
+KW Kuwait Hawalli
+KW Kuwait "Mubārak al Kabīr"
+KW Kuwait "Muhafazat al Jahra'"
+KY "Cayman Islands" 
+KZ Kazakhstan 
+KZ Kazakhstan "Aktyubinskaya Oblast'"
+KZ Kazakhstan Almaty
+KZ Kazakhstan "Almaty Oblysy"
+KZ Kazakhstan "Aqmola Oblysy"
+KZ Kazakhstan "Atyrau Oblysy"
+KZ Kazakhstan "East Kazakhstan"
+KZ Kazakhstan Karaganda
+KZ Kazakhstan "Mangistauskaya Oblast'"
+KZ Kazakhstan "North Kazakhstan"
+KZ Kazakhstan Nur-Sultan
+KZ Kazakhstan "Pavlodar Region"
+KZ Kazakhstan "Qostanay Oblysy"
+KZ Kazakhstan "Qyzylorda Oblysy"
+KZ Kazakhstan Shymkent
+KZ Kazakhstan "South Kazakhstan"
+KZ Kazakhstan "West Kazakhstan"
+KZ Kazakhstan "Zhambyl Oblysy"
+LA Laos 
+LA Laos Attapu
+LA Laos Bokeo
+LA Laos Bolikhamsai
+LA Laos Champasak
+LA Laos Houaphan
+LA Laos Khammouan
+LA Laos "Khoueng Oudomxai"
+LA Laos "Khoueng Phongsali"
+LA Laos "Khoueng Savannakhet"
+LA Laos "Khoueng Xekong"
+LA Laos Louangnamtha
+LA Laos "Luang Prabang Province"
+LA Laos Salavan
+LA Laos "Vientiane Prefecture"
+LA Laos "Vientiane Province"
+LA Laos Xaignabouli
+LA Laos Xaisomboun
+LA Laos Xiangkhouang
+LB Lebanon 
+LB Lebanon Beyrouth
+LB Lebanon "Mohafazat Aakkar"
+LB Lebanon "Mohafazat Baalbek-Hermel"
+LB Lebanon "Mohafazat Beqaa"
+LB Lebanon "Mohafazat Liban-Nord"
+LB Lebanon "Mohafazat Mont-Liban"
+LB Lebanon "Mohafazat Nabatiye"
+LB Lebanon "South Governorate"
+LC "Saint Lucia" 
+LC "Saint Lucia" Anse-la-Raye
+LC "Saint Lucia" Canaries
+LC "Saint Lucia" Castries
+LC "Saint Lucia" Choiseul
+LC "Saint Lucia" Gros-Islet
+LC "Saint Lucia" Laborie
+LC "Saint Lucia" Micoud
+LC "Saint Lucia" Soufriere
+LC "Saint Lucia" Vieux-Fort
+LI Liechtenstein 
+LI Liechtenstein Balzers
+LI Liechtenstein Eschen
+LI Liechtenstein Gamprin
+LI Liechtenstein Mauren
+LI Liechtenstein Planken
+LI Liechtenstein Ruggell
+LI Liechtenstein Schaan
+LI Liechtenstein Schellenberg
+LI Liechtenstein Triesen
+LI Liechtenstein Triesenberg
+LI Liechtenstein Vaduz
+LK "Sri Lanka" 
+LK "Sri Lanka" "Central Province"
+LK "Sri Lanka" "Eastern Province"
+LK "Sri Lanka" "North Central Province"
+LK "Sri Lanka" "Northern Province"
+LK "Sri Lanka" "North Western Province"
+LK "Sri Lanka" "Province of Uva"
+LK "Sri Lanka" "Sabaragamuwa Province"
+LK "Sri Lanka" "Southern Province"
+LK "Sri Lanka" "Western Province"
+LR Liberia 
+LR Liberia "Bomi County"
+LR Liberia "Bong County"
+LR Liberia "Gbarpolu County"
+LR Liberia "Grand Bassa County"
+LR Liberia "Grand Kru County"
+LR Liberia "Lofa County"
+LR Liberia "Margibi County"
+LR Liberia "Maryland County"
+LR Liberia "Montserrado County"
+LR Liberia "Nimba County"
+LR Liberia "River Cess County"
+LR Liberia "River Gee County"
+LR Liberia "Sinoe County"
+LS Lesotho 
+LS Lesotho Berea
+LS Lesotho Butha-Buthe
+LS Lesotho Leribe
+LS Lesotho "Mafeteng District"
+LS Lesotho Maseru
+LS Lesotho "Mohale's Hoek District"
+LS Lesotho Mokhotlong
+LS Lesotho "Qacha's Nek"
+LS Lesotho Quthing
+LS Lesotho Thaba-Tseka
+LT Lithuania 
+LT Lithuania Alytus
+LT Lithuania Kaunas
+LT Lithuania "Klaipėda County"
+LT Lithuania "Marijampolė County"
+LT Lithuania "Panevėžys"
+LT Lithuania Siauliai
+LT Lithuania "Tauragė County"
+LT Lithuania Telsiai
+LT Lithuania Utena
+LT Lithuania Vilnius
+LU Luxembourg 
+LU Luxembourg Capellen
+LU Luxembourg Clervaux
+LU Luxembourg Diekirch
+LU Luxembourg Echternach
+LU Luxembourg Esch-sur-Alzette
+LU Luxembourg Grevenmacher
+LU Luxembourg Luxembourg
+LU Luxembourg Mersch
+LU Luxembourg Redange
+LU Luxembourg Remich
+LU Luxembourg Vianden
+LU Luxembourg Wiltz
+LV Latvia 
+LV Latvia "Ādaži"
+LV Latvia "Aizkraukles novads"
+LV Latvia "Aluksnes Novads"
+LV Latvia "Balvu Novads"
+LV Latvia "Bauskas Novads"
+LV Latvia "Cesu Novads"
+LV Latvia Daugavpils
+LV Latvia "Dobeles novads"
+LV Latvia "Gulbenes novads"
+LV Latvia "Jēkabpils Municipality"
+LV Latvia Jelgava
+LV Latvia "Jelgavas novads"
+LV Latvia Jurmala
+LV Latvia Ķekava
+LV Latvia "Kraslavas novads"
+LV Latvia "Kuldigas novads"
+LV Latvia Liepaja
+LV Latvia "Limbazu novads"
+LV Latvia "Līvāni"
+LV Latvia "Ludzas novads"
+LV Latvia "Madona Municipality"
+LV Latvia "Mārupe"
+LV Latvia Ogre
+LV Latvia Olaine
+LV Latvia "Preili Municipality"
+LV Latvia Rezekne
+LV Latvia "Rezeknes Novads"
+LV Latvia Riga
+LV Latvia "Ropazu Novads"
+LV Latvia "Salaspils Novads"
+LV Latvia "Saldus Municipality"
+LV Latvia "Saulkrastu Novads"
+LV Latvia "Siguldas Novads"
+LV Latvia "Smiltenes Novads"
+LV Latvia "Talsi Municipality"
+LV Latvia "Tukuma novads"
+LV Latvia Valka
+LV Latvia Valmiera
+LV Latvia "Varaklanu Novads"
+LV Latvia Ventspils
+LV Latvia "Ventspils Municipality"
+LY Libya 
+LY Libya "Al Butnan"
+LY Libya "Al Jabal al Akhdar"
+LY Libya "Al Jafarah"
+LY Libya "Al Jufrah"
+LY Libya "Al Kufrah"
+LY Libya "Al Marj"
+LY Libya "Al Marqab"
+LY Libya "Al Wahat"
+LY Libya "An Nuqat al Khams"
+LY Libya "Az Zawiyah"
+LY Libya Darnah
+LY Libya Ghat
+LY Libya "Jabal al Gharbi"
+LY Libya Murzuq
+LY Libya Nalut
+LY Libya Sabha
+LY Libya "Sha'biyat Banghazi"
+LY Libya "Sha'biyat Misratah"
+LY Libya Surt
+LY Libya Tripoli
+LY Libya "Wadi al Hayat"
+LY Libya "Wadi ash Shati'"
+MA Morocco 
+MA Morocco "Beni Mellal-Khenifra"
+MA Morocco Casablanca-Settat
+MA Morocco "Dakhla-Oued Ed-Dahab"
+MA Morocco Draa-Tafilalet
+MA Morocco Fes-Meknes
+MA Morocco "Guelmim-Oued Noun"
+MA Morocco "Laayoune-Sakia El Hamra"
+MA Morocco Marrakesh-Safi
+MA Morocco Oriental
+MA Morocco Rabat-Sale-Kenitra
+MA Morocco Souss-Massa
+MA Morocco "Tanger-Tetouan-Al Hoceima"
+MC Monaco 
+MD Moldova 
+MD Moldova "Anenii Noi"
+MD Moldova Basarabeasca
+MD Moldova "Bender Municipality"
+MD Moldova Briceni
+MD Moldova Cahul
+MD Moldova Cantemir
+MD Moldova "Chișinău Municipality"
+MD Moldova "Cimişlia"
+MD Moldova Criuleni
+MD Moldova "Donduşeni"
+MD Moldova Drochia
+MD Moldova "Făleşti"
+MD Moldova "Floreşti"
+MD Moldova Gagauzia
+MD Moldova Glodeni
+MD Moldova "Hînceşti"
+MD Moldova Ialoveni
+MD Moldova Leova
+MD Moldova "Municipiul Balti"
+MD Moldova Nisporeni
+MD Moldova Orhei
+MD Moldova "Raionul Calarasi"
+MD Moldova "Raionul Causeni"
+MD Moldova "Raionul Dubasari"
+MD Moldova "Raionul Edineţ"
+MD Moldova "Raionul Ocniţa"
+MD Moldova "Raionul Soroca"
+MD Moldova "Raionul Stefan Voda"
+MD Moldova Rezina
+MD Moldova "Rîşcani"
+MD Moldova Sîngerei
+MD Moldova "Şoldăneşti"
+MD Moldova "Strășeni"
+MD Moldova Taraclia
+MD Moldova "Teleneşti"
+MD Moldova Transnistria
+MD Moldova Ungheni
+ME Montenegro 
+ME Montenegro Bar
+ME Montenegro Berane
+ME Montenegro "Bijelo Polje"
+ME Montenegro Budva
+ME Montenegro Cetinje
+ME Montenegro Danilovgrad
+ME Montenegro Gusinje
+ME Montenegro "Herceg Novi"
+ME Montenegro Kotor
+ME Montenegro Mojkovac
+ME Montenegro "Opstina Kolasin"
+ME Montenegro "Opstina Niksic"
+ME Montenegro "Opstina Plav"
+ME Montenegro "Opstina Pluzine"
+ME Montenegro "Opstina Rozaje"
+ME Montenegro "Opstina Savnik"
+ME Montenegro "Opstina Zabljak"
+ME Montenegro Petnjica
+ME Montenegro Pljevlja
+ME Montenegro Podgorica
+ME Montenegro Tivat
+ME Montenegro Tuzi
+ME Montenegro Ulcinj
+MF "Saint Martin" 
+MG Madagascar 
+MH "Marshall Islands" 
+MH "Marshall Islands" "Kwajalein Atoll"
+MH "Marshall Islands" "Majuro Atoll"
+MK "North Macedonia" 
+MK "North Macedonia" Berovo
+MK "North Macedonia" Bitola
+MK "North Macedonia" Bogdanci
+MK "North Macedonia" Debar
+MK "North Macedonia" Delchevo
+MK "North Macedonia" "Demir Hisar"
+MK "North Macedonia" Gevgelija
+MK "North Macedonia" Gostivar
+MK "North Macedonia" Ilinden
+MK "North Macedonia" Jegunovce
+MK "North Macedonia" Kavadarci
+MK "North Macedonia" Kichevo
+MK "North Macedonia" Kochani
+MK "North Macedonia" Kratovo
+MK "North Macedonia" "Kriva Palanka"
+MK "North Macedonia" Kumanovo
+MK "North Macedonia" Lipkovo
+MK "North Macedonia" Negotino
+MK "North Macedonia" "Novo Selo"
+MK "North Macedonia" Ohrid
+MK "North Macedonia" Prilep
+MK "North Macedonia" Probishtip
+MK "North Macedonia" Radovish
+MK "North Macedonia" Resen
+MK "North Macedonia" Shtip
+MK "North Macedonia" Struga
+MK "North Macedonia" Strumica
+MK "North Macedonia" "Sveti Nikole"
+MK "North Macedonia" Tearce
+MK "North Macedonia" Tetovo
+MK "North Macedonia" Valandovo
+MK "North Macedonia" Veles
+MK "North Macedonia" Vinica
+ML Mali 
+ML Mali "Bamako Region"
+ML Mali Gao
+ML Mali Kayes
+ML Mali Kidal
+ML Mali Koulikoro
+ML Mali Mopti
+ML Mali Ségou
+ML Mali Sikasso
+ML Mali Taoudénit
+ML Mali Tombouctou
+MM Myanmar 
+MM Myanmar "Ayeyarwady Region"
+MM Myanmar "Bago Region"
+MM Myanmar "Chin State"
+MM Myanmar "Kayah State"
+MM Myanmar "Kayin State"
+MM Myanmar "Magway Region"
+MM Myanmar "Mandalay Region"
+MM Myanmar "Mon State"
+MM Myanmar "Nay Pyi Taw"
+MM Myanmar "Rakhine State"
+MM Myanmar Rangoon
+MM Myanmar "Sagaing Region"
+MM Myanmar "Shan State"
+MM Myanmar "Tanintharyi Region"
+MN Mongolia 
+MN Mongolia "Arhangay Aymag"
+MN Mongolia "Bayanhongor Aymag"
+MN Mongolia "Bayan-OElgiy Aymag"
+MN Mongolia Bulgan
+MN Mongolia "Central Aymag"
+MN Mongolia "Darhan-Uul Aymag"
+MN Mongolia "Dzavhan Aymag"
+MN Mongolia "East Aimak"
+MN Mongolia "East Gobi Aymag"
+MN Mongolia "Govi-Altay Aymag"
+MN Mongolia Govi-Sumber
+MN Mongolia "Hentiy Aymag"
+MN Mongolia Hovd
+MN Mongolia "Hovsgol Aymag"
+MN Mongolia "Middle Govĭ"
+MN Mongolia "Ömnögovĭ"
+MN Mongolia "Orhon Aymag"
+MN Mongolia "Selenge Aymag"
+MN Mongolia "South Khangay"
+MN Mongolia "Suhbaatar Aymag"
+MN Mongolia "Ulaanbaatar Hot"
+MN Mongolia "Uvs Aymag"
+MO Macao 
+MP "Northern Mariana Islands" 
+MP "Northern Mariana Islands" "Northern Islands"
+MP "Northern Mariana Islands" Rota
+MP "Northern Mariana Islands" Saipan
+MP "Northern Mariana Islands" Tinian
+MQ Martinique 
+MR Mauritania 
+MR Mauritania Adrar
+MR Mauritania Assaba
+MR Mauritania Brakna
+MR Mauritania Gorgol
+MR Mauritania "Hodh Ech Chargi"
+MR Mauritania "Hodh El Gharbi"
+MR Mauritania Inchiri
+MR Mauritania "Nouakchott Ouest"
+MR Mauritania "Nouakchott Sud"
+MR Mauritania Tagant
+MR Mauritania "Tiris Zemmour"
+MR Mauritania Trarza
+MS Montserrat 
+MT Malta 
+MT Malta Attard
+MT Malta Balzan
+MT Malta Birkirkara
+MT Malta Birzebbuga
+MT Malta Bormla
+MT Malta Dingli
+MT Malta Floriana
+MT Malta Ghajnsielem
+MT Malta "Hal Gharghur"
+MT Malta "Hal Ghaxaq"
+MT Malta Haz-Zabbar
+MT Malta Haz-Zebbug
+MT Malta Il-Birgu
+MT Malta Il-Fgura
+MT Malta Il-Fontana
+MT Malta Il-Gudja
+MT Malta Il-Gzira
+MT Malta Il-Hamrun
+MT Malta Il-Kalkara
+MT Malta Il-Marsa
+MT Malta Il-Mellieha
+MT Malta Il-Mosta
+MT Malta Il-Munxar
+MT Malta Il-Qala
+MT Malta Il-Qrendi
+MT Malta In-Nadur
+MT Malta In-Naxxar
+MT Malta Ir-Rabat
+MT Malta Is-Siggiewi
+MT Malta Is-Swieqi
+MT Malta Ix-Xaghra
+MT Malta Ix-Xewkija
+MT Malta Ix-Xghajra
+MT Malta Iz-Zebbug
+MT Malta Iz-Zejtun
+MT Malta Iz-Zurrieq
+MT Malta Kirkop
+MT Malta L-Gharb
+MT Malta L-Ghasri
+MT Malta Lija
+MT Malta L-Iklin
+MT Malta L-Imdina
+MT Malta L-Imgarr
+MT Malta L-Imqabba
+MT Malta L-Imsida
+MT Malta Luqa
+MT Malta Marsaskala
+MT Malta Marsaxlokk
+MT Malta Mtarfa
+MT Malta Paola
+MT Malta Pembroke
+MT Malta Qormi
+MT Malta "Saint John"
+MT Malta "Saint Julian"
+MT Malta "Saint Lawrence"
+MT Malta "Saint Lucia"
+MT Malta "Saint Paul’s Bay"
+MT Malta "Saint Venera"
+MT Malta Sannat
+MT Malta Senglea
+MT Malta "Ta' Kercem"
+MT Malta Tal-Pieta
+MT Malta Tarxien
+MT Malta Tas-Sliema
+MT Malta "Ta' Xbiex"
+MT Malta Valletta
+MT Malta Victoria
+MU Mauritius 
+MU Mauritius "Agalega Islands"
+MU Mauritius "Black River District"
+MU Mauritius "Cargados Carajos"
+MU Mauritius "Flacq District"
+MU Mauritius "Grand Port District"
+MU Mauritius "Moka District"
+MU Mauritius "Pamplemousses District"
+MU Mauritius "Plaines Wilhems District"
+MU Mauritius "Port Louis District"
+MU Mauritius "Riviere du Rempart District"
+MU Mauritius Rodrigues
+MU Mauritius "Savanne District"
+MV Maldives 
+MV Maldives "Baa Atholhu"
+MV Maldives "Dhaalu Atholhu"
+MV Maldives "Faafu Atholhu"
+MV Maldives "Gaafu Dhaalu Atoll"
+MV Maldives "Gnyaviyani Atoll"
+MV Maldives "Haa Alifu Atholhu"
+MV Maldives "Haa Dhaalu Atholhu"
+MV Maldives "Kaafu Atoll"
+MV Maldives "Laamu Atholhu"
+MV Maldives "Lhaviyani Atholhu"
+MV Maldives Male
+MV Maldives "Meemu Atholhu"
+MV Maldives "Northern Ari Atoll"
+MV Maldives "Raa Atoll"
+MV Maldives "Shaviyani Atholhu"
+MV Maldives "Southern Ari Atoll"
+MV Maldives "Thaa Atholhu"
+MV Maldives "Vaavu Atholhu"
+MW Malawi 
+MW Malawi "Central Region"
+MW Malawi "Northern Region"
+MW Malawi "Southern Region"
+MX Mexico 
+MX Mexico Aguascalientes
+MX Mexico "Baja California"
+MX Mexico "Baja California Sur"
+MX Mexico Campeche
+MX Mexico Chiapas
+MX Mexico Chihuahua
+MX Mexico Coahuila
+MX Mexico Colima
+MX Mexico Durango
+MX Mexico Guanajuato
+MX Mexico Guerrero
+MX Mexico Hidalgo
+MX Mexico Jalisco
+MX Mexico México
+MX Mexico "Mexico City"
+MX Mexico Michoacán
+MX Mexico Morelos
+MX Mexico Nayarit
+MX Mexico "Nuevo León"
+MX Mexico Oaxaca
+MX Mexico Puebla
+MX Mexico Querétaro
+MX Mexico "Quintana Roo"
+MX Mexico "San Luis Potosí"
+MX Mexico Sinaloa
+MX Mexico Sonora
+MX Mexico Tabasco
+MX Mexico Tamaulipas
+MX Mexico Tlaxcala
+MX Mexico Veracruz
+MX Mexico Yucatán
+MX Mexico Zacatecas
+MY Malaysia 
+MY Malaysia Johor
+MY Malaysia Kedah
+MY Malaysia Kelantan
+MY Malaysia "Kuala Lumpur"
+MY Malaysia Labuan
+MY Malaysia Melaka
+MY Malaysia "Negeri Sembilan"
+MY Malaysia Pahang
+MY Malaysia Penang
+MY Malaysia Perak
+MY Malaysia Perlis
+MY Malaysia Putrajaya
+MY Malaysia Sabah
+MY Malaysia Sarawak
+MY Malaysia Selangor
+MY Malaysia Terengganu
+MZ Mozambique 
+MZ Mozambique "Cabo Delgado Province"
+MZ Mozambique "Cidade de Maputo"
+MZ Mozambique "Gaza Province"
+MZ Mozambique "Inhambane Province"
+MZ Mozambique "Manica Province"
+MZ Mozambique "Maputo Province"
+MZ Mozambique Nampula
+MZ Mozambique "Niassa Province"
+MZ Mozambique "Provincia de Zambezia"
+MZ Mozambique "Sofala Province"
+MZ Mozambique Tete
+NA Namibia 
+NA Namibia Erongo
+NA Namibia Hardap
+NA Namibia Karas
+NA Namibia "Kavango East"
+NA Namibia "Kavango West"
+NA Namibia Khomas
+NA Namibia Kunene
+NA Namibia Ohangwena
+NA Namibia Omaheke
+NA Namibia Omusati
+NA Namibia Oshana
+NA Namibia Oshikoto
+NA Namibia Otjozondjupa
+NA Namibia "Zambezi Region"
+NC "New Caledonia" 
+NC "New Caledonia" "Loyalty Islands"
+NC "New Caledonia" "North Province"
+NC "New Caledonia" "South Province"
+NE Niger 
+NE Niger Agadez
+NE Niger Diffa
+NE Niger "Dosso Region"
+NE Niger Maradi
+NE Niger Niamey
+NE Niger Tahoua
+NE Niger "Tillaberi Region"
+NE Niger Zinder
+NF "Norfolk Island" 
+NG Nigeria 
+NG Nigeria "Abia State"
+NG Nigeria Adamawa
+NG Nigeria "Akwa Ibom State"
+NG Nigeria Anambra
+NG Nigeria Bauchi
+NG Nigeria "Bayelsa State"
+NG Nigeria "Benue State"
+NG Nigeria "Borno State"
+NG Nigeria "Cross River State"
+NG Nigeria Delta
+NG Nigeria "Ebonyi State"
+NG Nigeria Edo
+NG Nigeria "Ekiti State"
+NG Nigeria "Enugu State"
+NG Nigeria FCT
+NG Nigeria "Gombe State"
+NG Nigeria "Imo State"
+NG Nigeria "Jigawa State"
+NG Nigeria "Kaduna State"
+NG Nigeria "Kano State"
+NG Nigeria "Katsina State"
+NG Nigeria Kebbi
+NG Nigeria "Kogi State"
+NG Nigeria "Kwara State"
+NG Nigeria Lagos
+NG Nigeria "Nasarawa State"
+NG Nigeria "Niger State"
+NG Nigeria "Ogun State"
+NG Nigeria "Ondo State"
+NG Nigeria "Osun State"
+NG Nigeria "Oyo State"
+NG Nigeria "Plateau State"
+NG Nigeria "Rivers State"
+NG Nigeria "Sokoto State"
+NG Nigeria "Taraba State"
+NG Nigeria "Yobe State"
+NG Nigeria "Zamfara State"
+NI Nicaragua 
+NI Nicaragua "Departamento de Boaco"
+NI Nicaragua "Departamento de Carazo"
+NI Nicaragua "Departamento de Chinandega"
+NI Nicaragua "Departamento de Chontales"
+NI Nicaragua "Departamento de Esteli"
+NI Nicaragua "Departamento de Granada"
+NI Nicaragua "Departamento de Jinotega"
+NI Nicaragua "Departamento de Leon"
+NI Nicaragua "Departamento de Madriz"
+NI Nicaragua "Departamento de Managua"
+NI Nicaragua "Departamento de Masaya"
+NI Nicaragua "Departamento de Matagalpa"
+NI Nicaragua "Departamento de Rio San Juan"
+NI Nicaragua "Departamento de Rivas"
+NI Nicaragua "North Caribbean Coast"
+NI Nicaragua "South Caribbean Coast"
+NL Netherlands 
+NL Netherlands Drenthe
+NL Netherlands Flevoland
+NL Netherlands Friesland
+NL Netherlands Gelderland
+NL Netherlands Groningen
+NL Netherlands Limburg
+NL Netherlands "North Brabant"
+NL Netherlands "North Holland"
+NL Netherlands Overijssel
+NL Netherlands "South Holland"
+NL Netherlands Utrecht
+NL Netherlands Zeeland
+NO Norway 
+NO Norway Agder
+NO Norway Innlandet
+NO Norway "Møre og Romsdal"
+NO Norway Nordland
+NO Norway "Oslo County"
+NO Norway Rogaland
+NO Norway "Troms og Finnmark"
+NO Norway Trøndelag
+NO Norway "Vestfold og Telemark"
+NO Norway Vestland
+NO Norway Viken
+NP Nepal 
+NP Nepal "Bagmati Province"
+NP Nepal "Gandaki Pradesh"
+NP Nepal "Karnali Pradesh"
+NP Nepal "Lumbini Province"
+NP Nepal "Province 1"
+NP Nepal "Province 2"
+NP Nepal "Sudurpashchim Pradesh"
+NR Nauru 
+NR Nauru Aiwo
+NR Nauru Anabar
+NR Nauru Anetan
+NR Nauru Anibare
+NR Nauru Baiti
+NR Nauru Boe
+NR Nauru Buada
+NR Nauru Ewa
+NR Nauru Ijuw
+NR Nauru Meneng
+NR Nauru Nibok
+NR Nauru Uaboe
+NR Nauru Yaren
+NU Niue 
+NZ "New Zealand" 
+NZ "New Zealand" Auckland
+NZ "New Zealand" "Bay of Plenty"
+NZ "New Zealand" Canterbury
+NZ "New Zealand" "Chatham Islands"
+NZ "New Zealand" Gisborne
+NZ "New Zealand" "Hawke's Bay"
+NZ "New Zealand" Manawatu-Wanganui
+NZ "New Zealand" Marlborough
+NZ "New Zealand" Nelson
+NZ "New Zealand" Northland
+NZ "New Zealand" Otago
+NZ "New Zealand" Southland
+NZ "New Zealand" Taranaki
+NZ "New Zealand" Tasman
+NZ "New Zealand" Waikato
+NZ "New Zealand" Wellington
+NZ "New Zealand" "West Coast"
+OM Oman 
+OM Oman "Ad Dakhiliyah"
+OM Oman "Ad Dhahirah"
+OM Oman "Al Batinah North Governorate"
+OM Oman "Al Batinah South"
+OM Oman "Al Buraimi"
+OM Oman "Al Wusta Governorate"
+OM Oman Dhofar
+OM Oman "Musandam Governorate"
+OM Oman Muscat
+OM Oman "Northeastern Governorate"
+OM Oman "Southeastern Governorate"
+PA Panama 
+PA Panama Embera-Wounaan
+PA Panama "Guna Yala"
+PA Panama Ngoebe-Bugle
+PA Panama "Panama Oeste"
+PA Panama "Provincia de Bocas del Toro"
+PA Panama "Provincia de Chiriqui"
+PA Panama "Provincia de Cocle"
+PA Panama "Provincia de Colon"
+PA Panama "Provincia de Herrera"
+PA Panama "Provincia del Darien"
+PA Panama "Provincia de Los Santos"
+PA Panama "Provincia de Panama"
+PA Panama "Provincia de Veraguas"
+PE Peru 
+PE Peru Amazonas
+PE Peru Ancash
+PE Peru Arequipa
+PE Peru Ayacucho
+PE Peru Cajamarca
+PE Peru Callao
+PE Peru Cusco
+PE Peru "Departamento de Moquegua"
+PE Peru Huancavelica
+PE Peru Ica
+PE Peru Junin
+PE Peru "La Libertad"
+PE Peru Lambayeque
+PE Peru Lima
+PE Peru "Lima region"
+PE Peru Loreto
+PE Peru "Madre de Dios"
+PE Peru Pasco
+PE Peru Piura
+PE Peru Puno
+PE Peru "Region de Apurimac"
+PE Peru "Region de Huanuco"
+PE Peru "Region de San Martin"
+PE Peru Tacna
+PE Peru Tumbes
+PE Peru Ucayali
+PF "French Polynesia" 
+PF "French Polynesia" "Iles du Vent"
+PF "French Polynesia" "Iles Marquises"
+PF "French Polynesia" "Iles Tuamotu-Gambier"
+PF "French Polynesia" "Leeward Islands"
+PG "Papua New Guinea" 
+PG "Papua New Guinea" Bougainville
+PG "Papua New Guinea" "Central Province"
+PG "Papua New Guinea" "Chimbu Province"
+PG "Papua New Guinea" "Eastern Highlands Province"
+PG "Papua New Guinea" "East New Britain Province"
+PG "Papua New Guinea" "East Sepik Province"
+PG "Papua New Guinea" "Enga Province"
+PG "Papua New Guinea" "Gulf Province"
+PG "Papua New Guinea" Hela
+PG "Papua New Guinea" "Madang Province"
+PG "Papua New Guinea" "Manus Province"
+PG "Papua New Guinea" "Milne Bay Province"
+PG "Papua New Guinea" "Morobe Province"
+PG "Papua New Guinea" "National Capital"
+PG "Papua New Guinea" "New Ireland"
+PG "Papua New Guinea" "Northern Province"
+PG "Papua New Guinea" "Southern Highlands Province"
+PG "Papua New Guinea" "Western Highlands Province"
+PG "Papua New Guinea" "Western Province"
+PG "Papua New Guinea" "West New Britain Province"
+PG "Papua New Guinea" "West Sepik Province"
+PH Philippines 
+PH Philippines "Autonomous Region in Muslim Mindanao"
+PH Philippines Bicol
+PH Philippines "Cagayan Valley"
+PH Philippines Calabarzon
+PH Philippines Caraga
+PH Philippines "Central Luzon"
+PH Philippines "Central Visayas"
+PH Philippines Cordillera
+PH Philippines Davao
+PH Philippines "Eastern Visayas"
+PH Philippines Ilocos
+PH Philippines "Metro Manila"
+PH Philippines Mimaropa
+PH Philippines "Northern Mindanao"
+PH Philippines Soccsksargen
+PH Philippines "Western Visayas"
+PH Philippines "Zamboanga Peninsula"
+PK Pakistan 
+PK Pakistan "Azad Jammu and Kashmir"
+PK Pakistan Balochistan
+PK Pakistan Gilgit-Baltistan
+PK Pakistan Islamabad
+PK Pakistan "Khyber Pakhtunkhwa"
+PK Pakistan Punjab
+PK Pakistan Sindh
+PL Poland 
+PL Poland "Greater Poland"
+PL Poland Kujawsko-Pomorskie
+PL Poland "Lesser Poland"
+PL Poland "Łódź Voivodeship"
+PL Poland "Lower Silesia"
+PL Poland Lublin
+PL Poland Lubusz
+PL Poland Mazovia
+PL Poland "Opole Voivodeship"
+PL Poland Podlasie
+PL Poland Pomerania
+PL Poland Silesia
+PL Poland Subcarpathia
+PL Poland "Świętokrzyskie"
+PL Poland Warmia-Masuria
+PL Poland "West Pomerania"
+PM "Saint Pierre and Miquelon" 
+PM "Saint Pierre and Miquelon" "Commune de Saint-Pierre"
+PM "Saint Pierre and Miquelon" Miquelon-Langlade
+PN "Pitcairn Islands" 
+PR "Puerto Rico" 
+PS Palestine 
+PS Palestine "Al Khalil"
+PS Palestine "Al Quds"
+PS Palestine Bethlehem
+PS Palestine "Deir Al Balah"
+PS Palestine Gaza
+PS Palestine Jenin
+PS Palestine "Khan Yunis Governorate"
+PS Palestine Nablus
+PS Palestine "North Gaza"
+PS Palestine Rafah
+PS Palestine Ramallah
+PS Palestine Tulkarm
+PT Portugal 
+PT Portugal Aveiro
+PT Portugal Azores
+PT Portugal Beja
+PT Portugal Braga
+PT Portugal Bragança
+PT Portugal "Castelo Branco"
+PT Portugal Coimbra
+PT Portugal "District of Setúbal"
+PT Portugal "Évora"
+PT Portugal Faro
+PT Portugal Guarda
+PT Portugal Leiria
+PT Portugal Lisbon
+PT Portugal Madeira
+PT Portugal Portalegre
+PT Portugal Porto
+PT Portugal Santarém
+PT Portugal "Viana do Castelo"
+PT Portugal "Vila Real"
+PT Portugal Viseu
+PW Palau 
+PW Palau "State of Aimeliik"
+PW Palau "State of Airai"
+PW Palau "State of Angaur"
+PW Palau "State of Kayangel"
+PW Palau "State of Koror"
+PW Palau "State of Melekeok"
+PW Palau "State of Ngarchelong"
+PW Palau "State of Ngardmau"
+PW Palau "State of Ngatpang"
+PW Palau "State of Ngchesar"
+PW Palau "State of Ngeremlengui"
+PW Palau "State of Peleliu"
+PW Palau "State of Sonsorol"
+PY Paraguay 
+PY Paraguay Asuncion
+PY Paraguay "Departamento Central"
+PY Paraguay "Departamento de Alto Paraguay"
+PY Paraguay "Departamento de Boqueron"
+PY Paraguay "Departamento de Caaguazu"
+PY Paraguay "Departamento de Caazapa"
+PY Paraguay "Departamento de Canindeyu"
+PY Paraguay "Departamento de Concepcion"
+PY Paraguay "Departamento de Itapua"
+PY Paraguay "Departamento de la Cordillera"
+PY Paraguay "Departamento del Alto Parana"
+PY Paraguay "Departamento del Amambay"
+PY Paraguay "Departamento del Guaira"
+PY Paraguay "Departamento de Misiones"
+PY Paraguay "Departamento de Neembucu"
+PY Paraguay "Departamento de Paraguari"
+PY Paraguay "Departamento de Presidente Hayes"
+PY Paraguay "Departamento de San Pedro"
+QA Qatar 
+QA Qatar "Al Khor"
+QA Qatar Al-Shahaniya
+QA Qatar "Al Wakrah"
+QA Qatar "Baladiyat ad Dawhah"
+QA Qatar "Baladiyat ar Rayyan"
+QA Qatar "Baladiyat ash Shamal"
+QA Qatar "Baladiyat az Za'ayin"
+QA Qatar "Baladiyat Umm Salal"
+RE Réunion 
+RO Romania 
+RO Romania Alba
+RO Romania Arad
+RO Romania Arges
+RO Romania Bacau
+RO Romania Bihor
+RO Romania Bistrita-Nasaud
+RO Romania Botosani
+RO Romania Braila
+RO Romania Brasov
+RO Romania Bucuresti
+RO Romania Buzau
+RO Romania Calarasi
+RO Romania Caras-Severin
+RO Romania Cluj
+RO Romania Constanta
+RO Romania Covasna
+RO Romania Dambovita
+RO Romania Dolj
+RO Romania Galati
+RO Romania Giurgiu
+RO Romania Gorj
+RO Romania Harghita
+RO Romania Hunedoara
+RO Romania Ialomita
+RO Romania Iasi
+RO Romania Ilfov
+RO Romania "Maramureş"
+RO Romania Mehedinti
+RO Romania Mures
+RO Romania Neamt
+RO Romania Olt
+RO Romania Prahova
+RO Romania Salaj
+RO Romania "Satu Mare"
+RO Romania Sibiu
+RO Romania Suceava
+RO Romania Teleorman
+RO Romania Timis
+RO Romania Tulcea
+RO Romania Valcea
+RO Romania Vaslui
+RO Romania Vrancea
+RS Serbia 
+RS Serbia Belgrade
+RS Serbia Bor
+RS Serbia Branicevo
+RS Serbia Jablanica
+RS Serbia Kolubara
+RS Serbia Macva
+RS Serbia Morava
+RS Serbia Nisava
+RS Serbia Pcinja
+RS Serbia Pirot
+RS Serbia Podunavlje
+RS Serbia Pomoravlje
+RS Serbia Rasina
+RS Serbia Raska
+RS Serbia Sumadija
+RS Serbia Toplica
+RS Serbia Vojvodina
+RS Serbia Zajecar
+RS Serbia Zlatibor
+RU Russia 
+RU Russia "Adygeya Republic"
+RU Russia Altai
+RU Russia "Altai Krai"
+RU Russia "Amur Oblast"
+RU Russia Arkhangelskaya
+RU Russia "Astrakhan Oblast"
+RU Russia "Bashkortostan Republic"
+RU Russia "Belgorod Oblast"
+RU Russia "Bryansk Oblast"
+RU Russia "Buryatiya Republic"
+RU Russia Chechnya
+RU Russia "Chelyabinsk Oblast"
+RU Russia Chukotka
+RU Russia Chuvashia
+RU Russia Dagestan
+RU Russia "Ingushetiya Republic"
+RU Russia "Irkutsk Oblast"
+RU Russia "Ivanovo Oblast"
+RU Russia "Kabardino-Balkariya Republic"
+RU Russia "Kaliningrad Oblast"
+RU Russia "Kalmykiya Republic"
+RU Russia "Kaluga Oblast"
+RU Russia Kamchatka
+RU Russia "Karachayevo-Cherkesiya Republic"
+RU Russia Karelia
+RU Russia "Kemerovo Oblast"
+RU Russia Khabarovsk
+RU Russia "Khakasiya Republic"
+RU Russia Khanty-Mansia
+RU Russia "Kirov Oblast"
+RU Russia Komi
+RU Russia "Kostroma Oblast"
+RU Russia "Krasnodarskiy Kray"
+RU Russia "Krasnoyarskiy Kray"
+RU Russia "Kurgan Oblast"
+RU Russia "Kursk Oblast"
+RU Russia "Leningrad Oblast"
+RU Russia "Lipetsk Oblast"
+RU Russia "Magadan Oblast"
+RU Russia "Mariy-El Republic"
+RU Russia "Mordoviya Republic"
+RU Russia Moscow
+RU Russia "Moscow Oblast"
+RU Russia Murmansk
+RU Russia Nenets
+RU Russia "Nizhny Novgorod Oblast"
+RU Russia "North Ossetia"
+RU Russia "Novgorod Oblast"
+RU Russia "Novosibirsk Oblast"
+RU Russia "Omsk Oblast"
+RU Russia "Orel Oblast"
+RU Russia "Orenburg Oblast"
+RU Russia "Penza Oblast"
+RU Russia "Perm Krai"
+RU Russia "Primorskiy (Maritime) Kray"
+RU Russia "Pskov Oblast"
+RU Russia "Republic of Tyva"
+RU Russia "Rostov Oblast"
+RU Russia "Ryazan Oblast"
+RU Russia Sakha
+RU Russia "Sakhalin Oblast"
+RU Russia "Samara Oblast"
+RU Russia "Saratovskaya Oblast"
+RU Russia "Smolenskaya Oblast’"
+RU Russia "Stavropol Kray"
+RU Russia St.-Petersburg
+RU Russia "Sverdlovsk Oblast"
+RU Russia "Tambov Oblast"
+RU Russia "Tatarstan Republic"
+RU Russia "Tomsk Oblast"
+RU Russia "Transbaikal Territory"
+RU Russia "Tula Oblast"
+RU Russia "Tver Oblast"
+RU Russia "Tyumen’ Oblast"
+RU Russia "Udmurtiya Republic"
+RU Russia "Ulyanovsk Oblast"
+RU Russia "Vladimirskaya Oblast'"
+RU Russia "Volgograd Oblast"
+RU Russia "Vologda Oblast"
+RU Russia "Voronezh Oblast"
+RU Russia Yamalo-Nenets
+RU Russia "Yaroslavl Oblast"
+RU Russia "Yevrey (Jewish) Autonomous Oblast"
+RW Rwanda 
+RW Rwanda "Eastern Province"
+RW Rwanda Kigali
+RW Rwanda "Northern Province"
+RW Rwanda "Southern Province"
+SA "Saudi Arabia" 
+SA "Saudi Arabia" "Al Bahah Region"
+SA "Saudi Arabia" "Al Jawf Region"
+SA "Saudi Arabia" "Al-Qassim Region"
+SA "Saudi Arabia" "'Asir Region"
+SA "Saudi Arabia" "Eastern Province"
+SA "Saudi Arabia" "Ha'il Region"
+SA "Saudi Arabia" "Jazan Region"
+SA "Saudi Arabia" "Mecca Region"
+SA "Saudi Arabia" "Medina Region"
+SA "Saudi Arabia" "Najran Region"
+SA "Saudi Arabia" "Northern Borders Region"
+SA "Saudi Arabia" "Riyadh Region"
+SA "Saudi Arabia" "Tabuk Region"
+SB "Solomon Islands" 
+SB "Solomon Islands" "Central Province"
+SB "Solomon Islands" Choiseul
+SB "Solomon Islands" "Guadalcanal Province"
+SB "Solomon Islands" Honiara
+SB "Solomon Islands" "Isabel Province"
+SB "Solomon Islands" "Makira-Ulawa Province"
+SB "Solomon Islands" "Malaita Province"
+SB "Solomon Islands" "Rennell and Bellona"
+SB "Solomon Islands" "Temotu Province"
+SB "Solomon Islands" "Western Province"
+SC Seychelles 
+SC Seychelles Anse-aux-Pins
+SC Seychelles "Anse Boileau"
+SC Seychelles "Anse Etoile"
+SC Seychelles "Anse Royale"
+SC Seychelles "Au Cap"
+SC Seychelles "Baie Lazare"
+SC Seychelles "Baie Sainte Anne"
+SC Seychelles "Beau Vallon"
+SC Seychelles "Bel Air"
+SC Seychelles "Bel Ombre"
+SC Seychelles Cascade
+SC Seychelles "English River"
+SC Seychelles Glacis
+SC Seychelles "Grand Anse Praslin"
+SC Seychelles "La Digue"
+SC Seychelles "Les Mamelles"
+SC Seychelles "Mont Buxton"
+SC Seychelles "Mont Fleuri"
+SC Seychelles Plaisance
+SC Seychelles "Pointe Larue"
+SC Seychelles "Port Glaud"
+SC Seychelles Takamaka
+SD Sudan 
+SD Sudan "Al Qaḑārif"
+SD Sudan "Blue Nile"
+SD Sudan "Central Darfur"
+SD Sudan "Eastern Darfur"
+SD Sudan Kassala
+SD Sudan Khartoum
+SD Sudan Northern
+SD Sudan "Northern Darfur"
+SD Sudan "North Kordofan"
+SD Sudan "Red Sea"
+SD Sudan "Sinnār"
+SD Sudan "Southern Darfur"
+SD Sudan "Western Darfur"
+SD Sudan "West Kordofan State"
+SD Sudan "White Nile"
+SE Sweden 
+SE Sweden "Blekinge County"
+SE Sweden "Dalarna County"
+SE Sweden "Gävleborg County"
+SE Sweden "Gotland County"
+SE Sweden "Halland County"
+SE Sweden "Jämtland County"
+SE Sweden Jönköping
+SE Sweden Kalmar
+SE Sweden "Kronoberg County"
+SE Sweden "Norrbotten County"
+SE Sweden "Örebro County"
+SE Sweden "Östergötland County"
+SE Sweden "Skåne County"
+SE Sweden "Södermanland County"
+SE Sweden "Stockholm County"
+SE Sweden "Uppsala County"
+SE Sweden "Värmland County"
+SE Sweden "Västerbotten County"
+SE Sweden "Västernorrland County"
+SE Sweden "Västmanland County"
+SE Sweden "Västra Götaland County"
+SG Singapore 
+SH "Saint Helena" 
+SH "Saint Helena" Ascension
+SH "Saint Helena" "Saint Helena"
+SH "Saint Helena" "Tristan da Cunha"
+SI Slovenia 
+SI Slovenia Ankaran
+SI Slovenia Beltinci
+SI Slovenia Benedikt
+SI Slovenia "Bistrica ob Sotli"
+SI Slovenia Bloke
+SI Slovenia Bohinj
+SI Slovenia Borovnica
+SI Slovenia Brda
+SI Slovenia Brezovica
+SI Slovenia Cankova
+SI Slovenia Celje
+SI Slovenia "Cerklje na Gorenjskem"
+SI Slovenia Cerknica
+SI Slovenia Cerkno
+SI Slovenia Cerkvenjak
+SI Slovenia Cirkulane
+SI Slovenia Destrnik
+SI Slovenia Dobje
+SI Slovenia Dobrepolje
+SI Slovenia Dobrna
+SI Slovenia "Dobrova-Polhov Gradec"
+SI Slovenia Dobrovnik
+SI Slovenia "Dolenjske Toplice"
+SI Slovenia "Dol pri Ljubljani"
+SI Slovenia Dornava
+SI Slovenia Dravograd
+SI Slovenia Duplek
+SI Slovenia "Gorenja Vas-Poljane"
+SI Slovenia Gorje
+SI Slovenia "Gornja Radgona"
+SI Slovenia "Gornji Grad"
+SI Slovenia "Gornji Petrovci"
+SI Slovenia Grad
+SI Slovenia Grosuplje
+SI Slovenia Hajdina
+SI Slovenia Hodos
+SI Slovenia Horjul
+SI Slovenia Hrastnik
+SI Slovenia Hrpelje-Kozina
+SI Slovenia Idrija
+SI Slovenia Ig
+SI Slovenia "Ilirska Bistrica"
+SI Slovenia Izola
+SI Slovenia Jesenice
+SI Slovenia Jezersko
+SI Slovenia Kamnik
+SI Slovenia Kobilje
+SI Slovenia Komen
+SI Slovenia Komenda
+SI Slovenia Koper
+SI Slovenia "Kostanjevica na Krki"
+SI Slovenia Kostel
+SI Slovenia Kozje
+SI Slovenia Kranj
+SI Slovenia "Kranjska Gora"
+SI Slovenia Kungota
+SI Slovenia Kuzma
+SI Slovenia Lenart
+SI Slovenia Lendava
+SI Slovenia Litija
+SI Slovenia Ljubljana
+SI Slovenia Ljubno
+SI Slovenia Ljutomer
+SI Slovenia Logatec
+SI Slovenia "Log–Dragomer"
+SI Slovenia "Lovrenc na Pohorju"
+SI Slovenia Lukovica
+SI Slovenia Makole
+SI Slovenia Maribor
+SI Slovenia Markovci
+SI Slovenia Medvode
+SI Slovenia "Mestna Obcina Novo mesto"
+SI Slovenia Metlika
+SI Slovenia Miren-Kostanjevica
+SI Slovenia Mirna
+SI Slovenia Mislinja
+SI Slovenia Mokronog-Trebelno
+SI Slovenia "Moravske Toplice"
+SI Slovenia Mozirje
+SI Slovenia "Murska Sobota"
+SI Slovenia Muta
+SI Slovenia Naklo
+SI Slovenia Nazarje
+SI Slovenia "Nova Gorica"
+SI Slovenia "Obcina Ajdovscina"
+SI Slovenia "Obcina Apace"
+SI Slovenia "Obcina Bled"
+SI Slovenia "Obcina Bovec"
+SI Slovenia "Obcina Braslovce"
+SI Slovenia "Obcina Brezice"
+SI Slovenia "Obcina Crensovci"
+SI Slovenia "Obcina Crna na Koroskem"
+SI Slovenia "Obcina Crnomelj"
+SI Slovenia "Obcina Divaca"
+SI Slovenia "Obcina Domzale"
+SI Slovenia "Obcina Gorisnica"
+SI Slovenia "Obcina Hoce-Slivnica"
+SI Slovenia "Obcina Ivancna Gorica"
+SI Slovenia "Obcina Jursinci"
+SI Slovenia "Obcina Kanal ob Soci"
+SI Slovenia "Obcina Kidricevo"
+SI Slovenia "Obcina Kobarid"
+SI Slovenia "Obcina Kocevje"
+SI Slovenia "Obcina Krizevci"
+SI Slovenia "Obcina Krsko"
+SI Slovenia "Obcina Lasko"
+SI Slovenia "Obcina Loska Dolina"
+SI Slovenia "Obcina Loski Potok"
+SI Slovenia "Obcina Luce"
+SI Slovenia "Obcina Majsperk"
+SI Slovenia "Obcina Menges"
+SI Slovenia "Obcina Mezica"
+SI Slovenia "Obcina Miklavz na Dravskem Polju"
+SI Slovenia "Obcina Mirna Pec"
+SI Slovenia "Obcina Moravce"
+SI Slovenia "Obcina Ormoz"
+SI Slovenia "Obcina Podcetrtek"
+SI Slovenia "Obcina Poljcane"
+SI Slovenia "Obcina Race-Fram"
+SI Slovenia "Obcina Radece"
+SI Slovenia "Obcina Ravne na Koroskem"
+SI Slovenia "Obcina Razkrizje"
+SI Slovenia "Obcina Recica ob Savinji"
+SI Slovenia "Obcina Rence-Vogrsko"
+SI Slovenia "Obcina Rogaska Slatina"
+SI Slovenia "Obcina Rogasovci"
+SI Slovenia "Obcina Ruse"
+SI Slovenia "Obcina Salovci"
+SI Slovenia "Obcina Semic"
+SI Slovenia "Obcina Sempeter-Vrtojba"
+SI Slovenia "Obcina Sencur"
+SI Slovenia "Obcina Sentilj"
+SI Slovenia "Obcina Sentjernej"
+SI Slovenia "Obcina Sentrupert"
+SI Slovenia "Obcina Sezana"
+SI Slovenia "Obcina Skocjan"
+SI Slovenia "Obcina Skofljica"
+SI Slovenia "Obcina Smarje pri Jelsah"
+SI Slovenia "Obcina Smarjeske Toplice"
+SI Slovenia "Obcina Smartno ob Paki"
+SI Slovenia "Obcina Smartno pri Litiji"
+SI Slovenia "Obcina Sodrazica"
+SI Slovenia "Obcina Solcava"
+SI Slovenia "Obcina Sostanj"
+SI Slovenia "Obcina Sredisce ob Dravi"
+SI Slovenia "Obcina Starse"
+SI Slovenia "Obcina Store"
+SI Slovenia "Obcina Straza"
+SI Slovenia "Obcina Sveti Andraz v Slovenskih Goricah"
+SI Slovenia "Obcina Sveti Jurij ob Scavnici"
+SI Slovenia "Obcina Sveti Tomaz"
+SI Slovenia "Obcina Tisina"
+SI Slovenia "Obcina Tolmin"
+SI Slovenia "Obcina Trnovska vas"
+SI Slovenia "Obcina Trzic"
+SI Slovenia "Obcina Turnisce"
+SI Slovenia "Obcina Velike Lasce"
+SI Slovenia "Obcina Verzej"
+SI Slovenia "Obcina Zalec"
+SI Slovenia "Obcina Zavrc"
+SI Slovenia "Obcina Zelezniki"
+SI Slovenia "Obcina Zetale"
+SI Slovenia "Obcina Ziri"
+SI Slovenia "Obcina Zirovnica"
+SI Slovenia "Obcina Zrece"
+SI Slovenia "Obcina Zuzemberk"
+SI Slovenia Odranci
+SI Slovenia Oplotnica
+SI Slovenia Osilnica
+SI Slovenia Pesnica
+SI Slovenia Piran
+SI Slovenia Pivka
+SI Slovenia Podlehnik
+SI Slovenia Podvelka
+SI Slovenia Polzela
+SI Slovenia Postojna
+SI Slovenia Prebold
+SI Slovenia Preddvor
+SI Slovenia Prevalje
+SI Slovenia Ptuj
+SI Slovenia Puconci
+SI Slovenia Radenci
+SI Slovenia "Radlje ob Dravi"
+SI Slovenia Radovljica
+SI Slovenia Ribnica
+SI Slovenia "Ribnica na Pohorju"
+SI Slovenia "Selnica ob Dravi"
+SI Slovenia Sentjur
+SI Slovenia Sevnica
+SI Slovenia "Škofja Loka"
+SI Slovenia "Slovenj Gradec"
+SI Slovenia "Slovenska Bistrica"
+SI Slovenia "Slovenske Konjice"
+SI Slovenia "Sveta Ana"
+SI Slovenia "Sveta Trojica v Slovenskih Goricah"
+SI Slovenia "Sveti Jurij v Slovenskih Goricah"
+SI Slovenia Tabor
+SI Slovenia Trbovlje
+SI Slovenia Trebnje
+SI Slovenia Trzin
+SI Slovenia Velenje
+SI Slovenia "Velika Polana"
+SI Slovenia Videm
+SI Slovenia Vipava
+SI Slovenia Vitanje
+SI Slovenia Vojnik
+SI Slovenia Vransko
+SI Slovenia Vrhnika
+SI Slovenia Vuzenica
+SI Slovenia "Zagorje ob Savi"
+SJ "Svalbard and Jan Mayen" 
+SJ "Svalbard and Jan Mayen" "Jan Mayen"
+SJ "Svalbard and Jan Mayen" Svalbard
+SK Slovakia 
+SK Slovakia "Banska Bystrica"
+SK Slovakia Bratislava
+SK Slovakia Kosice
+SK Slovakia Nitra
+SK Slovakia Presov
+SK Slovakia Trencin
+SK Slovakia Trnava
+SK Slovakia Zilina
+SL "Sierra Leone" 
+SL "Sierra Leone" "Eastern Province"
+SL "Sierra Leone" "Northern Province"
+SL "Sierra Leone" "North West"
+SL "Sierra Leone" "Southern Province"
+SL "Sierra Leone" "Western Area"
+SM "San Marino" 
+SM "San Marino" "Castello di Acquaviva"
+SM "San Marino" "Castello di Borgo Maggiore"
+SM "San Marino" "Castello di Domagnano"
+SM "San Marino" "Castello di Faetano"
+SM "San Marino" "Castello di Fiorentino"
+SM "San Marino" "Castello di Montegiardino"
+SM "San Marino" "Castello di San Marino Citta"
+SM "San Marino" Chiesanuova
+SM "San Marino" Serravalle
+SN Senegal 
+SN Senegal Dakar
+SN Senegal Diourbel
+SN Senegal Fatick
+SN Senegal Kaolack
+SN Senegal Kolda
+SN Senegal Louga
+SN Senegal Matam
+SN Senegal "Region de Kaffrine"
+SN Senegal "Region de Kedougou"
+SN Senegal "Region de Sedhiou"
+SN Senegal "Region de Thies"
+SN Senegal Saint-Louis
+SN Senegal Tambacounda
+SN Senegal Ziguinchor
+SO Somalia 
+SO Somalia Bakool
+SO Somalia Banaadir
+SO Somalia Bari
+SO Somalia Bay
+SO Somalia Galguduud
+SO Somalia Gedo
+SO Somalia Hiiraan
+SO Somalia "Lower Juba"
+SO Somalia "Lower Shabeelle"
+SO Somalia "Middle Juba"
+SO Somalia Mudug
+SO Somalia Nugaal
+SO Somalia Sool
+SO Somalia Togdheer
+SO Somalia "Woqooyi Galbeed"
+SR Suriname 
+SR Suriname "Distrikt Brokopondo"
+SR Suriname "Distrikt Commewijne"
+SR Suriname "Distrikt Coronie"
+SR Suriname "Distrikt Marowijne"
+SR Suriname "Distrikt Nickerie"
+SR Suriname "Distrikt Para"
+SR Suriname "Distrikt Paramaribo"
+SR Suriname "Distrikt Saramacca"
+SR Suriname "Distrikt Sipaliwini"
+SR Suriname "Distrikt Wanica"
+SS "South Sudan" 
+SS "South Sudan" "Central Equatoria"
+ST "São Tomé and Príncipe" 
+ST "São Tomé and Príncipe" "Agua Grande"
+ST "São Tomé and Príncipe" Lemba
+ST "São Tomé and Príncipe" Principe
+SV "El Salvador" 
+SV "El Salvador" "Departamento de Ahuachapan"
+SV "El Salvador" "Departamento de Cabanas"
+SV "El Salvador" "Departamento de Chalatenango"
+SV "El Salvador" "Departamento de Cuscatlan"
+SV "El Salvador" "Departamento de La Libertad"
+SV "El Salvador" "Departamento de La Paz"
+SV "El Salvador" "Departamento de La Union"
+SV "El Salvador" "Departamento de Morazan"
+SV "El Salvador" "Departamento de San Miguel"
+SV "El Salvador" "Departamento de San Salvador"
+SV "El Salvador" "Departamento de Santa Ana"
+SV "El Salvador" "Departamento de San Vicente"
+SV "El Salvador" "Departamento de Sonsonate"
+SV "El Salvador" "Departamento de Usulutan"
+SX "Sint Maarten" 
+SY Syria 
+SY Syria "Aleppo Governorate"
+SY Syria "As-Suwayda Governorate"
+SY Syria "Damascus Governorate"
+SY Syria "Hama Governorate"
+SY Syria "Homs Governorate"
+SY Syria "Idlib Governorate"
+SY Syria "Latakia Governorate"
+SY Syria "Tartus Governorate"
+SZ Eswatini 
+SZ Eswatini Hhohho
+SZ Eswatini "Lubombo District"
+SZ Eswatini Manzini
+SZ Eswatini "Shiselweni District"
+TC "Turks and Caicos Islands" 
+TD Chad 
+TD Chad "Barh el Gazel"
+TD Chad "Batha Region"
+TD Chad "Borkou Region"
+TD Chad "Chari-Baguirmi Region"
+TD Chad Ennedi-Est
+TD Chad Ennedi-Ouest
+TD Chad Guéra
+TD Chad Hadjer-Lamis
+TD Chad "Kanem Region"
+TD Chad "Lac Region"
+TD Chad "Logone Occidental Region"
+TD Chad "Logone Oriental Region"
+TD Chad Mandoul
+TD Chad "Mayo-Kebbi Est"
+TD Chad "Mayo-Kebbi Ouest"
+TD Chad "Moyen-Chari Region"
+TD Chad "N’Djaména"
+TD Chad Ouadaï
+TD Chad "Salamat Region"
+TD Chad Sila
+TD Chad Tandjilé
+TD Chad "Tibesti Region"
+TD Chad "Wadi Fira Region"
+TF "French Southern Territories" 
+TG Togo 
+TG Togo Centrale
+TG Togo Kara
+TG Togo Maritime
+TG Togo Plateaux
+TG Togo Savanes
+TH Thailand 
+TH Thailand "Amnat Charoen"
+TH Thailand "Ang Thong"
+TH Thailand Bangkok
+TH Thailand "Bueng Kan"
+TH Thailand Buriram
+TH Thailand Chachoengsao
+TH Thailand "Chai Nat"
+TH Thailand Chaiyaphum
+TH Thailand Chanthaburi
+TH Thailand "Chiang Mai"
+TH Thailand "Chiang Rai"
+TH Thailand "Chon Buri"
+TH Thailand Chumphon
+TH Thailand Kalasin
+TH Thailand "Kamphaeng Phet"
+TH Thailand Kanchanaburi
+TH Thailand "Khon Kaen"
+TH Thailand Krabi
+TH Thailand Lampang
+TH Thailand Lamphun
+TH Thailand Loei
+TH Thailand Lopburi
+TH Thailand "Mae Hong Son"
+TH Thailand "Maha Sarakham"
+TH Thailand Mukdahan
+TH Thailand "Nakhon Nayok"
+TH Thailand "Nakhon Pathom"
+TH Thailand "Nakhon Phanom"
+TH Thailand "Nakhon Ratchasima"
+TH Thailand "Nakhon Sawan"
+TH Thailand "Nakhon Si Thammarat"
+TH Thailand Nan
+TH Thailand Narathiwat
+TH Thailand "Nong Bua Lam Phu"
+TH Thailand "Nong Khai"
+TH Thailand Nonthaburi
+TH Thailand "Pathum Thani"
+TH Thailand Pattani
+TH Thailand "Phang Nga"
+TH Thailand Phatthalung
+TH Thailand Phayao
+TH Thailand Phetchabun
+TH Thailand Phetchaburi
+TH Thailand Phichit
+TH Thailand Phitsanulok
+TH Thailand Phrae
+TH Thailand "Phra Nakhon Si Ayutthaya"
+TH Thailand Phuket
+TH Thailand "Prachin Buri"
+TH Thailand "Prachuap Khiri Khan"
+TH Thailand Ranong
+TH Thailand Ratchaburi
+TH Thailand Rayong
+TH Thailand "Roi Et"
+TH Thailand "Sa Kaeo"
+TH Thailand "Sakon Nakhon"
+TH Thailand "Samut Prakan"
+TH Thailand "Samut Sakhon"
+TH Thailand "Samut Songkhram"
+TH Thailand Saraburi
+TH Thailand Satun
+TH Thailand "Sing Buri"
+TH Thailand "Si Sa Ket"
+TH Thailand Songkhla
+TH Thailand Sukhothai
+TH Thailand Suphanburi
+TH Thailand "Surat Thani"
+TH Thailand Surin
+TH Thailand Tak
+TH Thailand Trang
+TH Thailand Trat
+TH Thailand "Ubon Ratchathani"
+TH Thailand "Udon Thani"
+TH Thailand "Uthai Thani"
+TH Thailand Uttaradit
+TH Thailand Yala
+TH Thailand Yasothon
+TJ Tajikistan 
+TJ Tajikistan Dushanbe
+TJ Tajikistan Gorno-Badakhshan
+TJ Tajikistan "Republican Subordination"
+TJ Tajikistan "Viloyati Khatlon"
+TJ Tajikistan "Viloyati Sughd"
+TK Tokelau 
+TK Tokelau Atafu
+TK Tokelau Fakaofo
+TK Tokelau Nukunonu
+TL Timor-Leste 
+TL Timor-Leste Aileu
+TL Timor-Leste Ainaro
+TL Timor-Leste Baucau
+TL Timor-Leste Bobonaro
+TL Timor-Leste "Cova Lima"
+TL Timor-Leste Dili
+TL Timor-Leste Ermera
+TL Timor-Leste Lautém
+TL Timor-Leste Liquiçá
+TL Timor-Leste Manatuto
+TL Timor-Leste Manufahi
+TL Timor-Leste Oecusse
+TL Timor-Leste Viqueque
+TM Turkmenistan 
+TM Turkmenistan Ahal
+TM Turkmenistan Ashgabat
+TM Turkmenistan Balkan
+TM Turkmenistan "Dasoguz Welayaty"
+TM Turkmenistan Lebap
+TM Turkmenistan Mary
+TN Tunisia 
+TN Tunisia Gafsa
+TN Tunisia "Gouvernorat de Beja"
+TN Tunisia "Gouvernorat de Ben Arous"
+TN Tunisia "Gouvernorat de Bizerte"
+TN Tunisia "Gouvernorat de Gabes"
+TN Tunisia "Gouvernorat de Jendouba"
+TN Tunisia "Gouvernorat de Kasserine"
+TN Tunisia "Gouvernorat de Kebili"
+TN Tunisia "Gouvernorat de Kef"
+TN Tunisia "Gouvernorat de l'Ariana"
+TN Tunisia "Gouvernorat de Mahdia"
+TN Tunisia "Gouvernorat de Medenine"
+TN Tunisia "Gouvernorat de Monastir"
+TN Tunisia "Gouvernorat de Nabeul"
+TN Tunisia "Gouvernorat de Sfax"
+TN Tunisia "Gouvernorat de Sidi Bouzid"
+TN Tunisia "Gouvernorat de Siliana"
+TN Tunisia "Gouvernorat de Sousse"
+TN Tunisia "Gouvernorat de Tozeur"
+TN Tunisia "Gouvernorat de Tunis"
+TN Tunisia "Gouvernorat de Zaghouan"
+TN Tunisia Kairouan
+TN Tunisia Manouba
+TN Tunisia Tataouine
+TO Tonga 
+TO Tonga ʻEua
+TO Tonga Niuas
+TO Tonga Tongatapu
+TO Tonga Vava'u
+TR Turkey 
+TR Turkey Adana
+TR Turkey Adiyaman
+TR Turkey Afyonkarahisar
+TR Turkey "Ağrı"
+TR Turkey Aksaray
+TR Turkey Amasya
+TR Turkey Ankara
+TR Turkey Antalya
+TR Turkey Ardahan
+TR Turkey Artvin
+TR Turkey Aydın
+TR Turkey Balıkesir
+TR Turkey Bartın
+TR Turkey Batman
+TR Turkey Bayburt
+TR Turkey Bilecik
+TR Turkey Bingöl
+TR Turkey Bitlis
+TR Turkey Bolu
+TR Turkey Burdur
+TR Turkey Bursa
+TR Turkey Canakkale
+TR Turkey "Çankırı"
+TR Turkey "Çorum"
+TR Turkey Denizli
+TR Turkey Diyarbakir
+TR Turkey Duezce
+TR Turkey Edirne
+TR Turkey "Elazığ"
+TR Turkey Erzincan
+TR Turkey Erzurum
+TR Turkey "Eskişehir"
+TR Turkey Gaziantep
+TR Turkey Giresun
+TR Turkey Guemueshane
+TR Turkey Hakkâri
+TR Turkey Hatay
+TR Turkey "Iğdır"
+TR Turkey Isparta
+TR Turkey Istanbul
+TR Turkey Izmir
+TR Turkey "Kahramanmaraş"
+TR Turkey Karabuek
+TR Turkey Karaman
+TR Turkey Kars
+TR Turkey Kastamonu
+TR Turkey Kayseri
+TR Turkey Kilis
+TR Turkey Kırıkkale
+TR Turkey Kırklareli
+TR Turkey "Kırşehir"
+TR Turkey Kocaeli
+TR Turkey Konya
+TR Turkey Kütahya
+TR Turkey Malatya
+TR Turkey Manisa
+TR Turkey Mardin
+TR Turkey Mersin
+TR Turkey "Muğla"
+TR Turkey "Muş"
+TR Turkey Nevsehir
+TR Turkey Nigde
+TR Turkey Ordu
+TR Turkey Osmaniye
+TR Turkey Rize
+TR Turkey Sakarya
+TR Turkey Samsun
+TR Turkey "Şanlıurfa"
+TR Turkey Siirt
+TR Turkey Sinop
+TR Turkey "Şırnak"
+TR Turkey Sivas
+TR Turkey "Tekirdağ"
+TR Turkey Tokat
+TR Turkey Trabzon
+TR Turkey Tunceli
+TR Turkey "Uşak"
+TR Turkey Van
+TR Turkey Yalova
+TR Turkey Yozgat
+TR Turkey Zonguldak
+TT "Trinidad and Tobago" 
+TT "Trinidad and Tobago" "Borough of Arima"
+TT "Trinidad and Tobago" Chaguanas
+TT "Trinidad and Tobago" Couva-Tabaquite-Talparo
+TT "Trinidad and Tobago" "Diego Martin"
+TT "Trinidad and Tobago" Mayaro
+TT "Trinidad and Tobago" Penal/Debe
+TT "Trinidad and Tobago" "Point Fortin"
+TT "Trinidad and Tobago" "Port of Spain"
+TT "Trinidad and Tobago" "Princes Town"
+TT "Trinidad and Tobago" "San Fernando"
+TT "Trinidad and Tobago" "Sangre Grande"
+TT "Trinidad and Tobago" "San Juan/Laventille"
+TT "Trinidad and Tobago" Siparia
+TT "Trinidad and Tobago" Tobago
+TT "Trinidad and Tobago" Tunapuna/Piarco
+TV Tuvalu 
+TV Tuvalu Funafuti
+TV Tuvalu Nanumanga
+TV Tuvalu Nanumea
+TV Tuvalu Niutao
+TV Tuvalu Nui
+TV Tuvalu Nukufetau
+TV Tuvalu Nukulaelae
+TV Tuvalu Vaitupu
+TW Taiwan 
+TW Taiwan Changhua
+TW Taiwan Chiayi
+TW Taiwan "Chiayi County"
+TW Taiwan Hsinchu
+TW Taiwan "Hsinchu County"
+TW Taiwan Hualien
+TW Taiwan Kaohsiung
+TW Taiwan Keelung
+TW Taiwan "Kinmen County"
+TW Taiwan Lienchiang
+TW Taiwan Miaoli
+TW Taiwan Nantou
+TW Taiwan "New Taipei"
+TW Taiwan "Penghu County"
+TW Taiwan Pingtung
+TW Taiwan "Taichung City"
+TW Taiwan Tainan
+TW Taiwan "Taipei City"
+TW Taiwan Taitung
+TW Taiwan Taoyuan
+TW Taiwan Yilan
+TW Taiwan Yunlin
+TZ Tanzania 
+TZ Tanzania Arusha
+TZ Tanzania "Dar es Salaam Region"
+TZ Tanzania Dodoma
+TZ Tanzania Geita
+TZ Tanzania Iringa
+TZ Tanzania Kagera
+TZ Tanzania Katavi
+TZ Tanzania Kigoma
+TZ Tanzania Kilimanjaro
+TZ Tanzania Lindi
+TZ Tanzania Manyara
+TZ Tanzania Mara
+TZ Tanzania Mbeya
+TZ Tanzania Morogoro
+TZ Tanzania Mtwara
+TZ Tanzania Mwanza
+TZ Tanzania Njombe
+TZ Tanzania "Pemba North"
+TZ Tanzania "Pemba South"
+TZ Tanzania Pwani
+TZ Tanzania Rukwa
+TZ Tanzania Ruvuma
+TZ Tanzania Shinyanga
+TZ Tanzania Simiyu
+TZ Tanzania Singida
+TZ Tanzania Tabora
+TZ Tanzania Tanga
+TZ Tanzania "Zanzibar North"
+TZ Tanzania "Zanzibar Urban/West"
+UA Ukraine 
+UA Ukraine "Cherkasy Oblast"
+UA Ukraine Chernihiv
+UA Ukraine "Chernivtsi Oblast"
+UA Ukraine Crimea
+UA Ukraine "Dnipropetrovsk Oblast"
+UA Ukraine "Donetsk Oblast"
+UA Ukraine "Ivano-Frankivsk Oblast"
+UA Ukraine Kharkiv
+UA Ukraine "Kherson Oblast"
+UA Ukraine "Khmelnytskyi Oblast"
+UA Ukraine "Kirovohrad Oblast"
+UA Ukraine "Kyiv City"
+UA Ukraine "Kyiv Oblast"
+UA Ukraine Luhansk
+UA Ukraine "Lviv Oblast"
+UA Ukraine "Mykolayiv Oblast"
+UA Ukraine Odessa
+UA Ukraine "Poltava Oblast"
+UA Ukraine Rivne
+UA Ukraine "Sebastopol City"
+UA Ukraine Sumy
+UA Ukraine "Ternopil Oblast"
+UA Ukraine Transcarpathia
+UA Ukraine "Vinnytsya Oblast"
+UA Ukraine Volyn
+UA Ukraine "Zaporizhzhya Oblast"
+UA Ukraine Zhytomyr
+UG Uganda 
+UG Uganda "Central Region"
+UG Uganda "Eastern Region"
+UG Uganda "Northern Region"
+UG Uganda "Western Region"
+UM "U.S. Outlying Islands" 
+US "United States" 
+US "United States" Alabama
+US "United States" Alaska
+US "United States" Arizona
+US "United States" Arkansas
+US "United States" California
+US "United States" Colorado
+US "United States" Connecticut
+US "United States" Delaware
+US "United States" "District of Columbia"
+US "United States" Florida
+US "United States" Georgia
+US "United States" Hawaii
+US "United States" Idaho
+US "United States" Illinois
+US "United States" Indiana
+US "United States" Iowa
+US "United States" Kansas
+US "United States" Kentucky
+US "United States" Louisiana
+US "United States" Maine
+US "United States" Maryland
+US "United States" Massachusetts
+US "United States" Michigan
+US "United States" Minnesota
+US "United States" Mississippi
+US "United States" Missouri
+US "United States" Montana
+US "United States" Nebraska
+US "United States" Nevada
+US "United States" "New Hampshire"
+US "United States" "New Jersey"
+US "United States" "New Mexico"
+US "United States" "New York"
+US "United States" "North Carolina"
+US "United States" "North Dakota"
+US "United States" Ohio
+US "United States" Oklahoma
+US "United States" Oregon
+US "United States" Pennsylvania
+US "United States" "Rhode Island"
+US "United States" "South Carolina"
+US "United States" "South Dakota"
+US "United States" Tennessee
+US "United States" Texas
+US "United States" Utah
+US "United States" Vermont
+US "United States" Virginia
+US "United States" Washington
+US "United States" "West Virginia"
+US "United States" Wisconsin
+US "United States" Wyoming
+UY Uruguay 
+UY Uruguay Artigas
+UY Uruguay Canelones
+UY Uruguay "Cerro Largo"
+UY Uruguay Colonia
+UY Uruguay "Departamento de Durazno"
+UY Uruguay "Departamento de Flores"
+UY Uruguay "Departamento de Montevideo"
+UY Uruguay "Departamento de Paysandu"
+UY Uruguay "Departamento de Rio Negro"
+UY Uruguay "Departamento de Rivera"
+UY Uruguay "Departamento de Rocha"
+UY Uruguay "Departamento de Salto"
+UY Uruguay "Departamento de San Jose"
+UY Uruguay "Departamento de Tacuarembo"
+UY Uruguay "Departamento de Treinta y Tres"
+UY Uruguay Florida
+UY Uruguay Lavalleja
+UY Uruguay Maldonado
+UY Uruguay Soriano
+UZ Uzbekistan 
+UZ Uzbekistan "Andijan Region"
+UZ Uzbekistan Bukhara
+UZ Uzbekistan Fergana
+UZ Uzbekistan "Jizzakh Region"
+UZ Uzbekistan Karakalpakstan
+UZ Uzbekistan Namangan
+UZ Uzbekistan "Navoiy Region"
+UZ Uzbekistan Qashqadaryo
+UZ Uzbekistan "Samarqand Region"
+UZ Uzbekistan "Sirdaryo Region"
+UZ Uzbekistan "Surxondaryo Region"
+UZ Uzbekistan Tashkent
+UZ Uzbekistan "Tashkent Region"
+UZ Uzbekistan "Xorazm Region"
+VA "Vatican City" 
+VC "St Vincent and Grenadines" 
+VC "St Vincent and Grenadines" Grenadines
+VC "St Vincent and Grenadines" "Parish of Charlotte"
+VC "St Vincent and Grenadines" "Parish of Saint Andrew"
+VC "St Vincent and Grenadines" "Parish of Saint David"
+VC "St Vincent and Grenadines" "Parish of Saint George"
+VC "St Vincent and Grenadines" "Parish of Saint Patrick"
+VE Venezuela 
+VE Venezuela Amazonas
+VE Venezuela Anzoátegui
+VE Venezuela Apure
+VE Venezuela Aragua
+VE Venezuela Barinas
+VE Venezuela Bolívar
+VE Venezuela Carabobo
+VE Venezuela Cojedes
+VE Venezuela "Delta Amacuro"
+VE Venezuela "Dependencias Federales"
+VE Venezuela "Distrito Federal"
+VE Venezuela "Estado Trujillo"
+VE Venezuela Falcón
+VE Venezuela Guárico
+VE Venezuela Lara
+VE Venezuela Mérida
+VE Venezuela Miranda
+VE Venezuela Monagas
+VE Venezuela "Nueva Esparta"
+VE Venezuela Portuguesa
+VE Venezuela Sucre
+VE Venezuela Táchira
+VE Venezuela Vargas
+VE Venezuela Yaracuy
+VE Venezuela Zulia
+VG "British Virgin Islands" 
+VI "U.S. Virgin Islands" 
+VI "U.S. Virgin Islands" "Saint Croix Island"
+VI "U.S. Virgin Islands" "Saint John Island"
+VI "U.S. Virgin Islands" "Saint Thomas Island"
+VN Vietnam 
+VN Vietnam "An Giang"
+VN Vietnam "Can Tho"
+VN Vietnam "Đắk Lắk"
+VN Vietnam "Dak Nong"
+VN Vietnam "Da Nang"
+VN Vietnam "Gia Lai"
+VN Vietnam Haiphong
+VN Vietnam Hanoi
+VN Vietnam "Hậu Giang"
+VN Vietnam "Ho Chi Minh"
+VN Vietnam "Kon Tum"
+VN Vietnam "Long An"
+VN Vietnam "Quảng Ngãi Province"
+VN Vietnam "Tây Ninh Province"
+VN Vietnam "Tiền Giang"
+VN Vietnam "Tinh Bac Giang"
+VN Vietnam "Tinh Bac Kan"
+VN Vietnam "Tinh Bac Lieu"
+VN Vietnam "Tinh Bac Ninh"
+VN Vietnam "Tinh Ba Ria-Vung Tau"
+VN Vietnam "Tinh Ben Tre"
+VN Vietnam "Tinh Binh Duong"
+VN Vietnam "Tinh Binh GJinh"
+VN Vietnam "Tinh Binh Phuoc"
+VN Vietnam "Tinh Binh Thuan"
+VN Vietnam "Tinh Ca Mau"
+VN Vietnam "Tinh Cao Bang"
+VN Vietnam "Tinh Dien Bien"
+VN Vietnam "Tinh GJong Nai"
+VN Vietnam "Tinh GJong Thap"
+VN Vietnam "Tinh Ha Giang"
+VN Vietnam "Tinh Hai Duong"
+VN Vietnam "Tinh Ha Nam"
+VN Vietnam "Tinh Ha Tinh"
+VN Vietnam "Tinh Hoa Binh"
+VN Vietnam "Tinh Hung Yen"
+VN Vietnam "Tinh Khanh Hoa"
+VN Vietnam "Tinh Kien Giang"
+VN Vietnam "Tinh Lai Chau"
+VN Vietnam "Tinh Lam GJong"
+VN Vietnam "Tinh Lang Son"
+VN Vietnam "Tinh Lao Cai"
+VN Vietnam "Tinh Nam GJinh"
+VN Vietnam "Tinh Nghe An"
+VN Vietnam "Tinh Ninh Binh"
+VN Vietnam "Tinh Ninh Thuan"
+VN Vietnam "Tinh Phu Tho"
+VN Vietnam "Tinh Phu Yen"
+VN Vietnam "Tinh Quang Binh"
+VN Vietnam "Tinh Quang Nam"
+VN Vietnam "Tinh Quang Ninh"
+VN Vietnam "Tinh Quang Tri"
+VN Vietnam "Tinh Soc Trang"
+VN Vietnam "Tinh Son La"
+VN Vietnam "Tinh Thai Binh"
+VN Vietnam "Tinh Thai Nguyen"
+VN Vietnam "Tinh Thanh Hoa"
+VN Vietnam "Tinh Thua Thien-Hue"
+VN Vietnam "Tinh Tra Vinh"
+VN Vietnam "Tinh Tuyen Quang"
+VN Vietnam "Tinh Vinh Long"
+VN Vietnam "Tinh Vinh Phuc"
+VN Vietnam "Tinh Yen Bai"
+VU Vanuatu 
+VU Vanuatu "Malampa Province"
+VU Vanuatu "Penama Province"
+VU Vanuatu "Sanma Province"
+VU Vanuatu "Shefa Province"
+VU Vanuatu "Tafea Province"
+VU Vanuatu Torba
+WF "Wallis and Futuna" 
+WF "Wallis and Futuna" Alo
+WF "Wallis and Futuna" Sigave
+WF "Wallis and Futuna" Uvea
+WS Samoa 
+WS Samoa A'ana
+WS Samoa Aiga-i-le-Tai
+WS Samoa Atua
+WS Samoa Fa'asaleleaga
+WS Samoa Gaga'emauga
+WS Samoa Gagaifomauga
+WS Samoa Satupa'itea
+WS Samoa Tuamasaga
+WS Samoa Va'a-o-Fonoti
+WS Samoa Vaisigano
+XK Kosovo 
+YE Yemen 
+YE Yemen "Aḑ Ḑāli‘"
+YE Yemen Aden
+YE Yemen "Al Bayda"
+YE Yemen "Al Hudaydah"
+YE Yemen "Al Jawf"
+YE Yemen "Al Mahrah"
+YE Yemen "Al Mahwit"
+YE Yemen "Amanat Alasimah"
+YE Yemen "Dhamār"
+YE Yemen Ḩajjah
+YE Yemen Ibb
+YE Yemen Laḩij
+YE Yemen "Ma’rib"
+YE Yemen "Muhafazat Abyan"
+YE Yemen "Muhafazat Hadramaout"
+YE Yemen Omran
+YE Yemen Raymah
+YE Yemen "Şa‘dah"
+YE Yemen Shabwah
+YE Yemen Soqatra
+YE Yemen "Ta‘izz"
+YT Mayotte 
+ZA "South Africa" 
+ZA "South Africa" "Eastern Cape"
+ZA "South Africa" Gauteng
+ZA "South Africa" KwaZulu-Natal
+ZA "South Africa" Limpopo
+ZA "South Africa" Mpumalanga
+ZA "South Africa" "Northern Cape"
+ZA "South Africa" "North West"
+ZA "South Africa" "Orange Free State"
+ZA "South Africa" "Western Cape"
+ZM Zambia 
+ZM Zambia "Central Province"
+ZM Zambia Copperbelt
+ZM Zambia "Eastern Province"
+ZM Zambia "Luapula Province"
+ZM Zambia "Lusaka Province"
+ZM Zambia Muchinga
+ZM Zambia "North-Western Province"
+ZM Zambia "Southern Province"
+ZM Zambia "Western Province"
+ZW Zimbabwe 
+ZW Zimbabwe Bulawayo
+ZW Zimbabwe Harare
+ZW Zimbabwe Manicaland
+ZW Zimbabwe "Mashonaland Central"
+ZW Zimbabwe "Mashonaland East Province"
+ZW Zimbabwe "Mashonaland West"
+ZW Zimbabwe "Masvingo Province"
+ZW Zimbabwe "Matabeleland North"
+ZW Zimbabwe "Matabeleland South Province"
+ZW Zimbabwe "Midlands Province"
