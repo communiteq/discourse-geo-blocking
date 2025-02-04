@@ -1,6 +1,6 @@
 # name: discourse-geo-blocking
 # version: 1.0
-# author: richard@communiteq.com
+# authors: richard@communiteq.com
 # about: Block access to Discourse based on geographic region or ASN network number
 # url: https://www.github.com/communiteq/discourse-geo-blocking
 
@@ -13,7 +13,7 @@ after_initialize do
 
   ApplicationController.class_eval do
     alias_method :_old_rescue_discourse_actions, :rescue_discourse_actions
-    
+
     DiscourseEvent.on(:site_setting_changed) do |name|
       if [:geo_blocking_asn_blocklist, :geo_blocking_country_region_blocklist].include? name
         SiteSetting.geo_blocking_cache_version  = SiteSetting.geo_blocking_cache_version + 1
@@ -42,5 +42,5 @@ after_initialize do
       rescue_discourse_actions(:unavailable, 451, {custom_message: "geo_blocking.error_451" })
     end
   end
-    
+
 end
