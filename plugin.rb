@@ -1,5 +1,5 @@
 # name: discourse-geo-blocking
-# version: 1.0
+# version: 1.0.1
 # authors: Communiteq
 # about: Block access to Discourse based on geographic region or ASN network number
 # url: https://www.github.com/communiteq/discourse-geo-blocking
