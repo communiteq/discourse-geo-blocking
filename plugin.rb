@@ -51,8 +51,10 @@ after_initialize do
     ip = request.env["HTTP_X_REAL_IP"] || request.env["REMOTE_ADDR"]
 
     user = current_user
-    user.custom_fields["last_ip_address"] = ip
-    user.save_custom_fields(true)
+    if user
+      user.custom_fields["last_ip_address"] = ip
+      user.save_custom_fields(true)
+    end
 
     reason = ::GeoBlocking::Lookup.is_blocked?(ip)
     return unless reason
