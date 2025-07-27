@@ -15,7 +15,10 @@ after_initialize do
     alias_method :_old_rescue_discourse_actions, :rescue_discourse_actions
 
     DiscourseEvent.on(:site_setting_changed) do |name|
-      if [:geo_blocking_asn_blocklist, :geo_blocking_country_region_blocklist].include? name
+      if [:geo_blocking_asn_blocklist,
+          :geo_blocking_country_region_blocklist,
+          :geo_moderating_asn_blocklist,
+          :geo_moderating_country_region_blocklist].include? name
         SiteSetting.geo_blocking_cache_version  = SiteSetting.geo_blocking_cache_version + 1
       end
     end
