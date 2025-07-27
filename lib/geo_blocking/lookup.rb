@@ -44,30 +44,22 @@ module GeoBlocking
       end
 
       if asn_blocklist.split("|").include?("AS#{ipinfo[:asn]}")
-        if log_blocked
-          Rails.logger.warn "Geo-#{action} IP #{ip} because it is in network AS#{ipinfo[:asn]}"
-        end
+        Rails.logger.warn "Geo-#{action} IP #{ip} because it is in network AS#{ipinfo[:asn]}" if log_blocked
         return "network AS-#{ipinfo[:asn]}"
       end
 
       crlist = country_region_blocklist.split("|")
       if crlist.include?(ipinfo[:country]) || crlist.include?(ipinfo[:country_code])
-        if log_blocked
-          Rails.logger.warn "Geo-#{action} IP #{ip} because it is in country #{ipinfo[:country]}"
-        end
+        Rails.logger.warn "Geo-#{action} IP #{ip} because it is in country #{ipinfo[:country]}" if log_blocked
         return "#{ipinfo[:country]}"
       end
 
       if crlist.include?("#{ipinfo[:country]}.#{ipinfo[:region]}")
-        if log_blocked
-          Rails.logger.warn "Geo-#{action} IP #{ip} because it is in region #{ipinfo[:country]}.#{ipinfo[:region]}"
-        end
+        Rails.logger.warn "Geo-#{action} IP #{ip} because it is in region #{ipinfo[:country]}.#{ipinfo[:region]}" if log_blocked
         return "#{ipinfo[:region]}, #{ipinfo[:country]}"
       end
 
-      if log_allowed
-        Rails.logger.warn "Not geo-#{action} IP #{ip} - network: AS#{ipinfo[:asn]}, country: #{ipinfo[:country]} (#{ipinfo[:country_code]}), region: #{ipinfo[:region]}"
-      end
+      Rails.logger.warn "Not geo-#{action} IP #{ip} - network: AS#{ipinfo[:asn]}, country: #{ipinfo[:country]} (#{ipinfo[:country_code]}), region: #{ipinfo[:region]}" if log_allowed
       return false
     end
 
