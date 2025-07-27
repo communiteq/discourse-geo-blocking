@@ -36,7 +36,9 @@ after_initialize do
       return superResult if ((!(SiteSetting.geo_blocking_enabled)) || (superResult != :skip))
 
       reason = ::GeoBlocking::Lookup.is_moderated?(manager.user.custom_fields["last_ip_address"])
-      return unless reason
+      if reason
+        return reason
+      end
 
       :skip
     end

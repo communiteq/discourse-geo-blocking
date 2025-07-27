@@ -28,14 +28,14 @@ module GeoBlocking
       return false unless ipinfo && ipinfo[:asn]
 
       if configuration == 'block'
-        asn_blocklist = SiteSetting.get_blocking_asn_blocklist
-        log_blocked = SiteSetting.get_blocking_log_blocked
+        asn_blocklist = SiteSetting.geo_blocking_asn_blocklist
+        log_blocked = SiteSetting.geo_blocking_log_blocked
         country_region_blocklist = SiteSetting.geo_blocking_country_region_blocklist
         action = 'blocking'
         log_allowed = SiteSetting.geo_blocking_log_allowed
       elsif configuration == 'moderate'
-        asn_blocklist = SiteSetting.get_moderating_asn_blocklist
-        log_blocked = SiteSetting.get_moderating_log_blocked
+        asn_blocklist = SiteSetting.geo_moderating_asn_blocklist
+        log_blocked = SiteSetting.geo_moderating_log_blocked
         country_region_blocklist = SiteSetting.geo_moderating_country_region_blocklist
         action = 'moderating'
         log_allowed = SiteSetting.geo_moderating_log_allowed
