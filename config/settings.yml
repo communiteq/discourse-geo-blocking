@@ -20,6 +20,25 @@ plugins:
   geo_blocking_log_allowed:
     client: false
     default: false
+  geo_moderating_asn_blocklist:
+    client: false
+    default: ""
+    type: list
+    list_type: simple
+  geo_moderating_country_region_blocklist:
+    client: false
+    default: ""
+    type: list
+    list_type: simple
+  geo_moderating_detailed_reason:
+    client: false
+    default: true
+  geo_moderating_log_blocked:
+    client: false
+    default: false
+  geo_moderating_log_allowed:
+    client: false
+    default: false
   geo_blocking_cache_version:
     hidden: true
     client: false

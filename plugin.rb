@@ -15,7 +15,10 @@ after_initialize do
     alias_method :_old_rescue_discourse_actions, :rescue_discourse_actions
 
     DiscourseEvent.on(:site_setting_changed) do |name|
-      if [:geo_blocking_asn_blocklist, :geo_blocking_country_region_blocklist].include? name
+      if [:geo_blocking_asn_blocklist,
+          :geo_blocking_country_region_blocklist,
+          :geo_moderating_asn_blocklist,
+          :geo_moderating_country_region_blocklist].include? name
         SiteSetting.geo_blocking_cache_version  = SiteSetting.geo_blocking_cache_version + 1
       end
     end
@@ -28,11 +31,36 @@ after_initialize do
     end
   end
 
+  User.register_custom_field_type("last_ip_address", :string)
+
+  module ::DiscourseForceModeration
+    def post_needs_approval?(manager)
+      superResult = super
+      return superResult if ((!(SiteSetting.geo_blocking_enabled)) || (superResult != :skip))
+
+      reason = ::GeoBlocking::Lookup.is_moderated?(manager.user.custom_fields["last_ip_address"])
+      if reason
+        return reason
+      end
+
+      :skip
+    end
+  end
+
+  NewPostManager.singleton_class.prepend ::DiscourseForceModeration
+
   add_model_callback(:application_controller, :before_action) do
     return unless SiteSetting.geo_blocking_enabled
     return if request.fullpath.start_with?("/admin/", "/message-bus/", "/theme-javascripts/", "/stylesheets/", "/letter_avatar_proxy/", "/svg-sprite/", "/extra-locales/")
 
-    ip = request.env['HTTP_X_REAL_IP'] || request.env['REMOTE_ADDR']
+    ip = request.env["HTTP_X_REAL_IP"] || request.env["REMOTE_ADDR"]
+
+    user = current_user
+    if user
+      user.custom_fields["last_ip_address"] = ip
+      user.save_custom_fields(true)
+    end
+
     reason = ::GeoBlocking::Lookup.is_blocked?(ip)
     return unless reason
 
@@ -42,5 +70,4 @@ after_initialize do
       rescue_discourse_actions(:unavailable, 451, {custom_message: "geo_blocking.error_451" })
     end
   end
-
 end
