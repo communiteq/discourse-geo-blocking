@@ -1,5 +1,5 @@
 en:
-  site_settings: 
+  site_settings:
     geo_blocking_enabled: "Enable geo-blocking plugin."
     geo_blocking_asn_blocklist: "List of ASNs to block. You must include AS before the number."
     geo_blocking_country_region_blocklist: "List of countries and regions to block. Format: XX (country ISO code) or Countryname or Countryname.Regionname"
@@ -8,9 +8,10 @@ en:
     geo_blocking_detailed_reason: "Provide details of the block reason to the user."
     geo_moderating_asn_blocklist: "List of ASNs to moderate. You must include AS before the number."
     geo_moderating_country_region_blocklist: "List of countries and regions to moderate. Format: XX (country ISO code) or Countryname or Countryname.Regionname"
-    geo_moderating_log_blocked: "Log moderate IP addresses."
-    geo_moderating_log_allowed: "Log allowed IP addresses."
+    geo_moderating_log_blocked: "Log moderated IP addresses."
+    geo_moderating_log_allowed: "Log unmoderated IP addresses."
     geo_moderating_detailed_reason: "Provide details of the moderate reason to the user."
-  geo_blocking: 
+  geo_blocking:
     error_451: "This community is not accessible in your location."
-    error_451_detailed: "This community is not accessible because you are in %{reason}."
+    error_451_detailed: "This community is not accessible because you are in %{origin}."
+    moderate_reason: "Approval forced by geo-blocking, originating from %{origin}."

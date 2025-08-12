@@ -1,5 +1,5 @@
 # name: discourse-geo-blocking
-# version: 1.0.1
+# version: 1.1
 # authors: Communiteq
 # about: Block access to Discourse based on geographic region or ASN network number
 # url: https://www.github.com/communiteq/discourse-geo-blocking
@@ -31,16 +31,18 @@ after_initialize do
     end
   end
 
-  User.register_custom_field_type("last_ip_address", :string)
+  User.register_custom_field_type("geoblocking_last_ip_address", :string)
 
   module ::DiscourseForceModeration
     def post_needs_approval?(manager)
-      superResult = super
-      return superResult if ((!(SiteSetting.geo_blocking_enabled)) || (superResult != :skip))
+      return super unless SiteSetting.geo_blocking_enabled
 
-      reason = ::GeoBlocking::Lookup.is_moderated?(manager.user.custom_fields["last_ip_address"])
-      if reason
-        return reason
+      sr = super
+      return sr unless sr == :skip
+
+      origin = ::GeoBlocking::Lookup.is_moderated?(manager.user.custom_fields["geoblocking_last_ip_address"])
+      if origin
+        return I18n.t("geo_blocking.moderate_reason", { origin: origin })
       end
 
       :skip
@@ -57,7 +59,7 @@ after_initialize do
 
     user = current_user
     if user
-      user.custom_fields["last_ip_address"] = ip
+      user.custom_fields["geoblocking_last_ip_address"] = ip
       user.save_custom_fields(true)
     end
 
@@ -65,7 +67,7 @@ after_initialize do
     return unless reason
 
     if SiteSetting.geo_blocking_detailed_reason
-      rescue_discourse_actions(:unavailable, 451, {custom_message: "geo_blocking.error_451_detailed",  custom_message_params: { reason: reason }})
+      rescue_discourse_actions(:unavailable, 451, {custom_message: "geo_blocking.error_451_detailed",  custom_message_params: { origin: reason }})
     else
       rescue_discourse_actions(:unavailable, 451, {custom_message: "geo_blocking.error_451" })
     end

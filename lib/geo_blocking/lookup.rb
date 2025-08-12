@@ -4,7 +4,7 @@ module GeoBlocking
   class Lookup
     def self.is_blocked?(ip)
       version = SiteSetting.geo_blocking_cache_version
-      @reason = Rails.cache.fetch("geoblocking/#{version}/#{ip}", expires_in: 24.hours) do 
+      @reason = Rails.cache.fetch("geoblocking/#{version}/#{ip}", expires_in: 24.hours) do
         lookup_block?(ip)
       end
 
@@ -13,12 +13,9 @@ module GeoBlocking
 
     def self.is_moderated?(ip)
       version = SiteSetting.geo_blocking_cache_version
-      @reason =
-        Rails
-          .cache
-          .fetch("geoblocking-moderate/#{version}/#{ip}", expires_in: 24.hours) do
-            lookup_moderate?(ip)
-          end
+      @reason = Rails.cache.fetch("geoblocking-moderate/#{version}/#{ip}", expires_in: 24.hours) do
+        lookup_moderate?(ip)
+      end
 
       @reason
     end
