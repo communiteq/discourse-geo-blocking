@@ -25,12 +25,18 @@ module GeoBlocking
       return false unless ipinfo && ipinfo[:asn]
 
       if configuration == 'block'
+        if SiteSetting.geo_blocking_ip_whitelist.split("|").include?(ip)
+          return false
+        end
         asn_blocklist = SiteSetting.geo_blocking_asn_blocklist
         log_blocked = SiteSetting.geo_blocking_log_blocked
         country_region_blocklist = SiteSetting.geo_blocking_country_region_blocklist
         action = 'blocking'
         log_allowed = SiteSetting.geo_blocking_log_allowed
       elsif configuration == 'moderate'
+        if SiteSetting.geo_moderating_ip_whitelist.split("|").include?(ip)
+          return false
+        end
         asn_blocklist = SiteSetting.geo_moderating_asn_blocklist
         log_blocked = SiteSetting.geo_moderating_log_blocked
         country_region_blocklist = SiteSetting.geo_moderating_country_region_blocklist
@@ -57,7 +63,7 @@ module GeoBlocking
       end
 
       Rails.logger.warn "Not geo-#{action} IP #{ip} - network: AS#{ipinfo[:asn]}, country: #{ipinfo[:country]} (#{ipinfo[:country_code]}), region: #{ipinfo[:region]}" if log_allowed
-      return false
+      false
     end
 
     def self.lookup_moderate?(ip)

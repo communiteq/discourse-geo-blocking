@@ -11,6 +11,11 @@ plugins:
     default: ""
     type: list
     list_type: simple
+  geo_blocking_ip_whitelist:
+    client: false
+    default: ""
+    type: list
+    list_type: simple
   geo_blocking_detailed_reason:
     client: false
     default: true
@@ -30,6 +35,11 @@ plugins:
     default: ""
     type: list
     list_type: simple
+  geo_moderating_ip_whitelist:
+    client: false
+    default: ""
+    type: list
+    list_type: simple
   geo_moderating_detailed_reason:
     client: false
     default: true
@@ -43,4 +53,3 @@ plugins:
     hidden: true
     client: false
     default: 1
-

@@ -17,8 +17,10 @@ after_initialize do
     DiscourseEvent.on(:site_setting_changed) do |name|
       if [:geo_blocking_asn_blocklist,
           :geo_blocking_country_region_blocklist,
+          :geo_blocking_ip_whitelist,
           :geo_moderating_asn_blocklist,
-          :geo_moderating_country_region_blocklist].include? name
+          :geo_moderating_country_region_blocklist,
+          :geo_moderating_ip_whitelist].include? name
         SiteSetting.geo_blocking_cache_version  = SiteSetting.geo_blocking_cache_version + 1
       end
     end

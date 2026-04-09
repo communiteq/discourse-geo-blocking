@@ -18,6 +18,7 @@ This can be used to completely block access for certain countries or networks, f
   * Country ISO code (for example: `JP` for Japan)
   * Full country name followed by a dot and then the region name (for example: `Switzerland.Jura`).
 
+* You can use `geo_blocking_ip_whitelist` to configure the IP whitelist for blocked regions. This means IPs in the whitelist can access normally.
 * If you enable `geo blocking detailed reason` then the error message will contain the country/region or network that caused the user to be blocked.
 * To test the plugin you can check `geo blocking log blocked` and/or `geo blocking log allowed` and inspect the `/logs` on your forum.
 
