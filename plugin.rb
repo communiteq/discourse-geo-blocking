@@ -6,7 +6,7 @@
 
 enabled_site_setting :geo_blocking_enabled
 
-load File.expand_path('lib/geo_blocking/lookup.rb', __dir__)
+require_relative 'lib/geo_blocking/lookup'
 
 after_initialize do
   ::ActionController::Base.prepend_view_path File.expand_path('../app/views', __FILE__)
@@ -18,9 +18,14 @@ after_initialize do
       if [:geo_blocking_asn_blocklist,
           :geo_blocking_country_region_blocklist,
           :geo_blocking_ip_whitelist,
+          :geo_blocking_country_region_allowlist,
+          :geo_blocking_ip_blacklist,
           :geo_moderating_asn_blocklist,
           :geo_moderating_country_region_blocklist,
-          :geo_moderating_ip_whitelist].include? name
+          :geo_moderating_ip_whitelist,
+          :geo_moderating_country_region_allowlist,
+          :geo_moderating_ip_blacklist,
+        ].include? name
         SiteSetting.geo_blocking_cache_version  = SiteSetting.geo_blocking_cache_version + 1
       end
     end
