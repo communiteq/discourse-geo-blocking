@@ -1,0 +1,9 @@
+en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          discourse_geo_blocking: "Geo blocking"
+  js:
+    discourse_geo_blocking:
+      title: "Geo blocking"

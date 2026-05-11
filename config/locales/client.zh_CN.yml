@@ -1,0 +1,9 @@
+zh_CN:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          discourse_geo_blocking: "地域屏蔽"
+  js:
+    discourse_geo_blocking:
+      title: "地域屏蔽"
